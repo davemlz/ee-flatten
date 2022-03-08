@@ -1,4 +1,4 @@
-name: updated flattened list
+name: update flattened list
 on:
   workflow_dispatch:
   schedule:
