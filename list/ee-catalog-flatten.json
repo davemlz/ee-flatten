@@ -1500,9 +1500,21 @@
         "type": "application/json"
     },
     {
+        "href": "https://earthengine-stac.storage.googleapis.com/catalog/LANDSAT/LANDSAT_LC08_C02_T1.json",
+        "rel": "child",
+        "title": "LANDSAT_LC08_C02_T1",
+        "type": "application/json"
+    },
+    {
         "href": "https://earthengine-stac.storage.googleapis.com/catalog/LANDSAT/LANDSAT_LC08_C02_T1_L2.json",
         "rel": "child",
         "title": "LANDSAT_LC08_C02_T1_L2",
+        "type": "application/json"
+    },
+    {
+        "href": "https://earthengine-stac.storage.googleapis.com/catalog/LANDSAT/LANDSAT_LC08_C02_T1_RT.json",
+        "rel": "child",
+        "title": "LANDSAT_LC08_C02_T1_RT",
         "type": "application/json"
     },
     {
@@ -1518,6 +1530,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://earthengine-stac.storage.googleapis.com/catalog/LANDSAT/LANDSAT_LC08_C02_T2.json",
+        "rel": "child",
+        "title": "LANDSAT_LC08_C02_T2",
+        "type": "application/json"
+    },
+    {
         "href": "https://earthengine-stac.storage.googleapis.com/catalog/LANDSAT/LANDSAT_LC08_C02_T2_L2.json",
         "rel": "child",
         "title": "LANDSAT_LC08_C02_T2_L2",
@@ -1527,6 +1545,24 @@
         "href": "https://earthengine-stac.storage.googleapis.com/catalog/LANDSAT/LANDSAT_LC08_C02_T2_TOA.json",
         "rel": "child",
         "title": "LANDSAT_LC08_C02_T2_TOA",
+        "type": "application/json"
+    },
+    {
+        "href": "https://earthengine-stac.storage.googleapis.com/catalog/LANDSAT/LANDSAT_LC09_C02_T1.json",
+        "rel": "child",
+        "title": "LANDSAT_LC09_C02_T1",
+        "type": "application/json"
+    },
+    {
+        "href": "https://earthengine-stac.storage.googleapis.com/catalog/LANDSAT/LANDSAT_LC09_C02_T1_L2.json",
+        "rel": "child",
+        "title": "LANDSAT_LC09_C02_T1_L2",
+        "type": "application/json"
+    },
+    {
+        "href": "https://earthengine-stac.storage.googleapis.com/catalog/LANDSAT/LANDSAT_LC09_C02_T1_TOA.json",
+        "rel": "child",
+        "title": "LANDSAT_LC09_C02_T1_TOA",
         "type": "application/json"
     },
     {
@@ -1896,9 +1932,21 @@
         "type": "application/json"
     },
     {
+        "href": "https://earthengine-stac.storage.googleapis.com/catalog/LANDSAT/LANDSAT_LE07_C02_T1.json",
+        "rel": "child",
+        "title": "LANDSAT_LE07_C02_T1",
+        "type": "application/json"
+    },
+    {
         "href": "https://earthengine-stac.storage.googleapis.com/catalog/LANDSAT/LANDSAT_LE07_C02_T1_L2.json",
         "rel": "child",
         "title": "LANDSAT_LE07_C02_T1_L2",
+        "type": "application/json"
+    },
+    {
+        "href": "https://earthengine-stac.storage.googleapis.com/catalog/LANDSAT/LANDSAT_LE07_C02_T1_RT.json",
+        "rel": "child",
+        "title": "LANDSAT_LE07_C02_T1_RT",
         "type": "application/json"
     },
     {
@@ -1911,6 +1959,12 @@
         "href": "https://earthengine-stac.storage.googleapis.com/catalog/LANDSAT/LANDSAT_LE07_C02_T1_TOA.json",
         "rel": "child",
         "title": "LANDSAT_LE07_C02_T1_TOA",
+        "type": "application/json"
+    },
+    {
+        "href": "https://earthengine-stac.storage.googleapis.com/catalog/LANDSAT/LANDSAT_LE07_C02_T2.json",
+        "rel": "child",
+        "title": "LANDSAT_LE07_C02_T2",
         "type": "application/json"
     },
     {
@@ -2634,6 +2688,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://earthengine-stac.storage.googleapis.com/catalog/LANDSAT/LANDSAT_LT05_C02_T1.json",
+        "rel": "child",
+        "title": "LANDSAT_LT05_C02_T1",
+        "type": "application/json"
+    },
+    {
         "href": "https://earthengine-stac.storage.googleapis.com/catalog/LANDSAT/LANDSAT_LT05_C02_T1_L2.json",
         "rel": "child",
         "title": "LANDSAT_LT05_C02_T1_L2",
@@ -2643,6 +2703,12 @@
         "href": "https://earthengine-stac.storage.googleapis.com/catalog/LANDSAT/LANDSAT_LT05_C02_T1_TOA.json",
         "rel": "child",
         "title": "LANDSAT_LT05_C02_T1_TOA",
+        "type": "application/json"
+    },
+    {
+        "href": "https://earthengine-stac.storage.googleapis.com/catalog/LANDSAT/LANDSAT_LT05_C02_T2.json",
+        "rel": "child",
+        "title": "LANDSAT_LT05_C02_T2",
         "type": "application/json"
     },
     {
