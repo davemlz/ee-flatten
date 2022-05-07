@@ -1566,6 +1566,18 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/LANDSAT/LANDSAT_LC08_C02_T2.json",
+        "rel": "child",
+        "title": "LANDSAT_LC08_C02_T2",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/LANDSAT/LANDSAT_LC09_C02_T2_TOA.json",
+        "rel": "child",
+        "title": "LANDSAT_LC09_C02_T2_TOA",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/LANDSAT/LANDSAT_LC8.json",
         "rel": "child",
         "title": "LANDSAT_LC8",
