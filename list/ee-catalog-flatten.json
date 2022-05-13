@@ -1020,6 +1020,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JCU/JCU_Murray_GIC_global_tidal_wetland_change_2019.jsonnet.json",
+        "rel": "child",
+        "title": "JCU_Murray_GIC_global_tidal_wetland_change_2019.jsonnet",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GHSL_P2016_BUILT_LDSMT_GLOBE_V1.json",
         "rel": "child",
         "title": "JRC_GHSL_P2016_BUILT_LDSMT_GLOBE_V1",
