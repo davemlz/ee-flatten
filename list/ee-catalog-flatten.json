@@ -3828,6 +3828,18 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/MERRA/NASA_GSFC_MERRA_AER_2.json",
+        "rel": "child",
+        "title": "NASA_GSFC_MERRA_AER_2",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/MERRA/NASA_GSFC_MERRA_SLV_2.json",
+        "rel": "child",
+        "title": "NASA_GSFC_MERRA_SLV_2",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASADEM_HGT/NASA_NASADEM_HGT_001.json",
         "rel": "child",
         "title": "NASA_NASADEM_HGT_001",
