@@ -462,7 +462,7 @@
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/DOE/ORNL/DOE_ORNL_LandScan_HD_Ukraine_202201.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/DOE/DOE_ORNL_LandScan_HD_Ukraine_202201.json",
         "rel": "child",
         "title": "DOE_ORNL_LandScan_HD_Ukraine_202201",
         "type": "application/json"
@@ -1020,9 +1020,9 @@
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JCU/JCU_Murray_GIC_global_tidal_wetland_change_2019.jsonnet.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JCU/JCU_Murray_GIC_global_tidal_wetland_change_2019.json",
         "rel": "child",
-        "title": "JCU_Murray_GIC_global_tidal_wetland_change_2019.jsonnet",
+        "title": "JCU_Murray_GIC_global_tidal_wetland_change_2019",
         "type": "application/json"
     },
     {
@@ -3825,18 +3825,6 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/MEASURES/NASA_MEASURES_GFCC_TC_v3.json",
         "rel": "child",
         "title": "NASA_MEASURES_GFCC_TC_v3",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/MERRA/NASA_GSFC_MERRA_AER_2.json",
-        "rel": "child",
-        "title": "NASA_GSFC_MERRA_AER_2",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/MERRA/NASA_GSFC_MERRA_SLV_2.json",
-        "rel": "child",
-        "title": "NASA_GSFC_MERRA_SLV_2",
         "type": "application/json"
     },
     {
