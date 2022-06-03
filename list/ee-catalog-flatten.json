@@ -4446,6 +4446,24 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/TIGER/TIGER_2020_BG.json",
+        "rel": "child",
+        "title": "TIGER_2020_BG",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/TIGER/TIGER_2020_TABBLOCK20.json",
+        "rel": "child",
+        "title": "TIGER_2020_TABBLOCK20",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/TIGER/TIGER_2020_TRACT.json",
+        "rel": "child",
+        "title": "TIGER_2020_TRACT",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/TOMS/TOMS_MERGED.json",
         "rel": "child",
         "title": "TOMS_MERGED",
