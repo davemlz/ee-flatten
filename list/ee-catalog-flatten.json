@@ -696,6 +696,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/GOOGLE/GOOGLE_DYNAMICWORLD_V1.json",
+        "rel": "child",
+        "title": "GOOGLE_DYNAMICWORLD_V1",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/GOOGLE/GOOGLE_Research_open-buildings_v1_polygons.json",
         "rel": "child",
         "title": "GOOGLE_Research_open-buildings_v1_polygons",
