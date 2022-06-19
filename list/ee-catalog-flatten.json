@@ -5094,6 +5094,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WWF/WWF_HydroATLAS_v1_Basins_level12.json",
+        "rel": "child",
+        "title": "WWF_HydroATLAS_v1_Basins_level12",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/WWF/WWF_HydroSHEDS_03CONDEM.json",
         "rel": "child",
         "title": "WWF_HydroSHEDS_03CONDEM",
