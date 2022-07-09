@@ -1188,6 +1188,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_LUCAS_2018_COPERNICUS_POLYGONS_V1.json",
+        "rel": "child",
+        "title": "JRC_LUCAS_2018_COPERNICUS_POLYGONS_V1",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_LUCAS_HARMO_THLOC_V1.json",
         "rel": "child",
         "title": "JRC_LUCAS_HARMO_THLOC_V1",
