@@ -2316,6 +2316,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/LANDSAT/LANDSAT_LM05_C02_T2.json",
+        "rel": "child",
+        "title": "LANDSAT_LM05_C02_T2",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/LANDSAT/LANDSAT_LM1.json",
         "rel": "child",
         "title": "LANDSAT_LM1",
@@ -4827,6 +4833,12 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/3DEP/USGS_3DEP_10m_metadata.json",
         "rel": "child",
         "title": "USGS_3DEP_10m_metadata",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/3DEP/USGS_3DEP_1m.json",
+        "rel": "child",
+        "title": "USGS_3DEP_1m",
         "type": "application/json"
     },
     {
