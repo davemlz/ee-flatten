@@ -4398,6 +4398,24 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_18_MCMIPC.json",
+        "rel": "child",
+        "title": "NOAA_GOES_18_MCMIPC",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_18_MCMIPF.json",
+        "rel": "child",
+        "title": "NOAA_GOES_18_MCMIPF",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_18_MCMIPM.json",
+        "rel": "child",
+        "title": "NOAA_GOES_18_MCMIPM",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NCEP_DOE_RE2/NOAA_NCEP_DOE_RE2_total_cloud_coverage.json",
         "rel": "child",
         "title": "NOAA_NCEP_DOE_RE2_total_cloud_coverage",
