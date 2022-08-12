@@ -4470,6 +4470,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/VIIRS/NOAA_VIIRS_001_VNP22Q2.json",
+        "rel": "child",
+        "title": "NOAA_VIIRS_001_VNP22Q2",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/VIIRS/NOAA_VIIRS_DNB_MONTHLY_V1_VCMCFG.json",
         "rel": "child",
         "title": "NOAA_VIIRS_DNB_MONTHLY_V1_VCMCFG",
