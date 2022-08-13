@@ -66,6 +66,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/BNU/BNU_FGS_CCNL_v1.json",
+        "rel": "child",
+        "title": "BNU_FGS_CCNL_v1",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/CAS/CAS_IGSNRR_PML_V2.json",
         "rel": "child",
         "title": "CAS_IGSNRR_PML_V2",
