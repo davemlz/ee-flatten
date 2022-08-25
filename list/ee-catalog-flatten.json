@@ -3222,6 +3222,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/LARSE/LARSE_GEDI_GEDI02_A_002_INDEX.json",
+        "rel": "child",
+        "title": "LARSE_GEDI_GEDI02_A_002_INDEX",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/LARSE/LARSE_GEDI_GEDI02_A_002_MONTHLY.json",
         "rel": "child",
         "title": "LARSE_GEDI_GEDI02_A_002_MONTHLY",
