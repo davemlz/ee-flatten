@@ -3234,6 +3234,18 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/LARSE/LARSE_GEDI_GEDI02_B_002.json",
+        "rel": "child",
+        "title": "LARSE_GEDI_GEDI02_B_002",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/LARSE/LARSE_GEDI_GEDI02_B_002_INDEX.json",
+        "rel": "child",
+        "title": "LARSE_GEDI_GEDI02_B_002_INDEX",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/LARSE/LARSE_GEDI_GEDI04_B_002.json",
         "rel": "child",
         "title": "LARSE_GEDI_GEDI04_B_002",
