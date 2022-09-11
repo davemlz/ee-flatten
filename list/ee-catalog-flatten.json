@@ -4080,6 +4080,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GEOS-CF/NASA_GEOS-CF_v1_rpl_tavg1hr.json",
+        "rel": "child",
+        "title": "NASA_GEOS-CF_v1_rpl_tavg1hr",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GIMMS/NASA_GIMMS_3GV0.json",
         "rel": "child",
         "title": "NASA_GIMMS_3GV0",
