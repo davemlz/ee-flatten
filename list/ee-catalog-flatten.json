@@ -4152,6 +4152,18 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GSFC/NASA_GSFC_MERRA_aer_2.json",
+        "rel": "child",
+        "title": "NASA_GSFC_MERRA_aer_2",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GSFC/NASA_GSFC_MERRA_slv_2.json",
+        "rel": "child",
+        "title": "NASA_GSFC_MERRA_slv_2",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/JPL/NASA_JPL_global_forest_canopy_height_2005.json",
         "rel": "child",
         "title": "NASA_JPL_global_forest_canopy_height_2005",
@@ -4161,18 +4173,6 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/MEASURES/NASA_MEASURES_GFCC_TC_v3.json",
         "rel": "child",
         "title": "NASA_MEASURES_GFCC_TC_v3",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/MERRA/NASA_GSFC_MERRA_aer_2.json",
-        "rel": "child",
-        "title": "NASA_GSFC_MERRA_aer_2",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/MERRA/NASA_GSFC_MERRA_slv_2.json",
-        "rel": "child",
-        "title": "NASA_GSFC_MERRA_slv_2",
         "type": "application/json"
     },
     {
