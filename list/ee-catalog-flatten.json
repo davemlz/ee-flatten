@@ -720,6 +720,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/GOOGLE/GOOGLE_Research_open-buildings_v2_polygons.json",
+        "rel": "child",
+        "title": "GOOGLE_Research_open-buildings_v2_polygons",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/GRIDMET/GRIDMET_DROUGHT.json",
         "rel": "child",
         "title": "GRIDMET_DROUGHT",
@@ -963,6 +969,12 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/JAXA/JAXA_ALOS_PALSAR_YEARLY_SAR.json",
         "rel": "child",
         "title": "JAXA_ALOS_PALSAR_YEARLY_SAR",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JAXA/JAXA_ALOS_PALSAR_YEARLY_SAR_EPOCH.json",
+        "rel": "child",
+        "title": "JAXA_ALOS_PALSAR_YEARLY_SAR_EPOCH",
         "type": "application/json"
     },
     {
