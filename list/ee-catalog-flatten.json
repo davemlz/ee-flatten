@@ -600,6 +600,18 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/FAO/FAO_SOFO_1_FPP.json",
+        "rel": "child",
+        "title": "FAO_SOFO_1_FPP",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/FAO/FAO_SOFO_1_TPP.json",
+        "rel": "child",
+        "title": "FAO_SOFO_1_TPP",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/FAO/FAO_WAPOR_2_L1_AETI_D.json",
         "rel": "child",
         "title": "FAO_WAPOR_2_L1_AETI_D",
