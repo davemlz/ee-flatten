@@ -1224,6 +1224,36 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GSW1_4_GlobalSurfaceWater.json",
+        "rel": "child",
+        "title": "JRC_GSW1_4_GlobalSurfaceWater",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GSW1_4_Metadata.json",
+        "rel": "child",
+        "title": "JRC_GSW1_4_Metadata",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GSW1_4_MonthlyHistory.json",
+        "rel": "child",
+        "title": "JRC_GSW1_4_MonthlyHistory",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GSW1_4_MonthlyRecurrence.json",
+        "rel": "child",
+        "title": "JRC_GSW1_4_MonthlyRecurrence",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GSW1_4_YearlyHistory.json",
+        "rel": "child",
+        "title": "JRC_GSW1_4_YearlyHistory",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GWIS_GlobFire_v2_DailyPerimeters.json",
         "rel": "child",
         "title": "JRC_GWIS_GlobFire_v2_DailyPerimeters",
@@ -4593,6 +4623,12 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/OREGONSTATE/OREGONSTATE_PRISM_Norm81m.json",
         "rel": "child",
         "title": "OREGONSTATE_PRISM_Norm81m",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/ORTHO/ORTHO_Switzerland_SWISSIMAGE_10cm.json",
+        "rel": "child",
+        "title": "ORTHO_Switzerland_SWISSIMAGE_10cm",
         "type": "application/json"
     },
     {
