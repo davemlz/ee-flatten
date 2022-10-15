@@ -978,6 +978,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JAXA/JAXA_ALOS_PALSAR_YEARLY_FNF4.json",
+        "rel": "child",
+        "title": "JAXA_ALOS_PALSAR_YEARLY_FNF4",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/JAXA/JAXA_ALOS_PALSAR_YEARLY_SAR.json",
         "rel": "child",
         "title": "JAXA_ALOS_PALSAR_YEARLY_SAR",
