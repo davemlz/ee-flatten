@@ -4170,6 +4170,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GLDAS/NASA_GLDAS_V022_CLSM_G025_DA1D.json",
+        "rel": "child",
+        "title": "NASA_GLDAS_V022_CLSM_G025_DA1D",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GLDAS/NASA_GLDAS_V20_NOAH_G025_T3H.json",
         "rel": "child",
         "title": "NASA_GLDAS_V20_NOAH_G025_T3H",
@@ -4815,6 +4821,12 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/RESOLVE/RESOLVE_ECOREGIONS_2017.json",
         "rel": "child",
         "title": "RESOLVE_ECOREGIONS_2017",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/RUB/RUB_RUBCLIM_LCZ_global_lcz_map_v1.json",
+        "rel": "child",
+        "title": "RUB_RUBCLIM_LCZ_global_lcz_map_v1",
         "type": "application/json"
     },
     {
