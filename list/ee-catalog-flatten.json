@@ -996,6 +996,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JAXA/JAXA_ALOS_PALSAR-2_Level2_2_ScanSAR.json",
+        "rel": "child",
+        "title": "JAXA_ALOS_PALSAR-2_Level2_2_ScanSAR",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/JAXA/JAXA_GCOM-C_L3_LAND_LAI_V1.json",
         "rel": "child",
         "title": "JAXA_GCOM-C_L3_LAND_LAI_V1",
