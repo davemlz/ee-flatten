@@ -4866,6 +4866,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/TIGER/TIGER_2010_BG.json",
+        "rel": "child",
+        "title": "TIGER_2010_BG",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/TIGER/TIGER_2010_Blocks.json",
         "rel": "child",
         "title": "TIGER_2010_Blocks",
