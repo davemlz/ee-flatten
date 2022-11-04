@@ -4644,6 +4644,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/OREGONSTATE/OREGONSTATE_PRISM_Norm91m.json",
+        "rel": "child",
+        "title": "OREGONSTATE_PRISM_Norm91m",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/ORTHO/ORTHO_Switzerland_SWISSIMAGE_10cm.json",
         "rel": "child",
         "title": "ORTHO_Switzerland_SWISSIMAGE_10cm",
