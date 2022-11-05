@@ -4236,6 +4236,24 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GSFC/NASA_GSFC_MERRA_flx_2.json",
+        "rel": "child",
+        "title": "NASA_GSFC_MERRA_flx_2",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GSFC/NASA_GSFC_MERRA_lnd_2.json",
+        "rel": "child",
+        "title": "NASA_GSFC_MERRA_lnd_2",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GSFC/NASA_GSFC_MERRA_rad_2.json",
+        "rel": "child",
+        "title": "NASA_GSFC_MERRA_rad_2",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GSFC/NASA_GSFC_MERRA_slv_2.json",
         "rel": "child",
         "title": "NASA_GSFC_MERRA_slv_2",
