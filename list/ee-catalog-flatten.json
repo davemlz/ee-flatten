@@ -4548,6 +4548,18 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_18_FDCC.json",
+        "rel": "child",
+        "title": "NOAA_GOES_18_FDCC",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_18_FDCF.json",
+        "rel": "child",
+        "title": "NOAA_GOES_18_FDCF",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_18_MCMIPC.json",
         "rel": "child",
         "title": "NOAA_GOES_18_MCMIPC",
