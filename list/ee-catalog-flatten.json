@@ -3336,6 +3336,18 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/LARSE/LARSE_GEDI_GEDI04_A_002.json",
+        "rel": "child",
+        "title": "LARSE_GEDI_GEDI04_A_002",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/LARSE/LARSE_GEDI_GEDI04_A_002_INDEX.json",
+        "rel": "child",
+        "title": "LARSE_GEDI_GEDI04_A_002_INDEX",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/MERIT/MERIT_DEM_v1_0_3.json",
         "rel": "child",
         "title": "MERIT_DEM_v1_0_3",
