@@ -4488,6 +4488,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/SMAP/NASA_SMAP_SPL3SMP_E_005.json",
+        "rel": "child",
+        "title": "NASA_SMAP_SPL3SMP_E_005",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_NEX-DCP30.json",
         "rel": "child",
         "title": "NASA_NEX-DCP30",
