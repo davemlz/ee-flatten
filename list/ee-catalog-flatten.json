@@ -4794,6 +4794,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/VIIRS/NOAA_VIIRS_001_VNP21A1D.json",
+        "rel": "child",
+        "title": "NOAA_VIIRS_001_VNP21A1D",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/VIIRS/NOAA_VIIRS_001_VNP21A1N.json",
         "rel": "child",
         "title": "NOAA_VIIRS_001_VNP21A1N",
