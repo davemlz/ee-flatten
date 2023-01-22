@@ -690,6 +690,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/Germany/Germany_Brandenburg_20cm.json",
+        "rel": "child",
+        "title": "Germany_Brandenburg_20cm",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/GFW/GFW_GFF_V1_fishing_hours.json",
         "rel": "child",
         "title": "GFW_GFF_V1_fishing_hours",
