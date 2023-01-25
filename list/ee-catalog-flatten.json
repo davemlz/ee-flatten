@@ -504,6 +504,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/ECMWF/ECMWF_ERA5_LAND_MONTHLY_AGGR.json",
+        "rel": "child",
+        "title": "ECMWF_ERA5_LAND_MONTHLY_AGGR",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/ECMWF/ECMWF_ERA5_LAND_MONTHLY_BY_HOUR.json",
         "rel": "child",
         "title": "ECMWF_ERA5_LAND_MONTHLY_BY_HOUR",
