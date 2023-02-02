@@ -5562,6 +5562,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/NLCD_RELEASES/USGS_NLCD_RELEASES_2019_REL_RCMAP_V5_COVER.json",
+        "rel": "child",
+        "title": "USGS_NLCD_RELEASES_2019_REL_RCMAP_V5_COVER",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/WBD/USGS_WBD_2017_HUC02.json",
         "rel": "child",
         "title": "USGS_WBD_2017_HUC02",
