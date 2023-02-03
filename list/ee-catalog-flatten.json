@@ -12,6 +12,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/ACA/ACA_reef_habitat_v2_0.json",
+        "rel": "child",
+        "title": "ACA_reef_habitat_v2_0",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/AHN/AHN_AHN2_05M_INT.json",
         "rel": "child",
         "title": "AHN_AHN2_05M_INT",
@@ -492,6 +498,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/ECMWF/ECMWF_ERA5_LAND_DAILY_RAW.json",
+        "rel": "child",
+        "title": "ECMWF_ERA5_LAND_DAILY_RAW",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/ECMWF/ECMWF_ERA5_LAND_HOURLY.json",
         "rel": "child",
         "title": "ECMWF_ERA5_LAND_HOURLY",
@@ -693,12 +705,6 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/FORMA/FORMA_FORMA_500m.json",
         "rel": "child",
         "title": "FORMA_FORMA_500m",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/Germany/Germany_Brandenburg_20cm.json",
-        "rel": "child",
-        "title": "Germany_Brandenburg_20cm",
         "type": "application/json"
     },
     {
