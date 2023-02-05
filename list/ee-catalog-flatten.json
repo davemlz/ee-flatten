@@ -708,6 +708,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/Germany/Germany_Brandenburg_orthos_20cm.json",
+        "rel": "child",
+        "title": "Germany_Brandenburg_orthos_20cm",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/GFW/GFW_GFF_V1_fishing_hours.json",
         "rel": "child",
         "title": "GFW_GFF_V1_fishing_hours",
@@ -4329,6 +4335,12 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/FLDAS/NASA_FLDAS_NOAH01_C_GL_M_V001.json",
         "rel": "child",
         "title": "NASA_FLDAS_NOAH01_C_GL_M_V001",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GEOS-CF/NASA_GEOS-CF_v1_fcst_htf.json",
+        "rel": "child",
+        "title": "NASA_GEOS-CF_v1_fcst_htf",
         "type": "application/json"
     },
     {
