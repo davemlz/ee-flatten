@@ -366,6 +366,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/COPERNICUS/COPERNICUS_DEM_GLO30.json",
+        "rel": "child",
+        "title": "COPERNICUS_DEM_GLO30",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/CPOM/CPOM_CryoSat2_ANTARCTICA_DEM.json",
         "rel": "child",
         "title": "CPOM_CryoSat2_ANTARCTICA_DEM",
