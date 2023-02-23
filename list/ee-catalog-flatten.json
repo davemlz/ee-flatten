@@ -5136,6 +5136,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/Spain/Spain_PNOA_PNOA10.json",
+        "rel": "child",
+        "title": "Spain_PNOA_PNOA10",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/TERN/TERN_AET_CMRSET_LANDSAT_V2_1.json",
         "rel": "child",
         "title": "TERN_AET_CMRSET_LANDSAT_V2_1",
