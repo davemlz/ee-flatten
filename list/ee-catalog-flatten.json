@@ -4332,201 +4332,153 @@
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/ASTER_GED/NASA_ASTER_GED_AG100_003.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_ASTER_GED_AG100_003.json",
         "rel": "child",
         "title": "NASA_ASTER_GED_AG100_003",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/FLDAS/NASA_FLDAS_NOAH01_C_GL_M_V001.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_FLDAS_NOAH01_C_GL_M_V001.json",
         "rel": "child",
         "title": "NASA_FLDAS_NOAH01_C_GL_M_V001",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GEOS-CF/NASA_GEOS-CF_v1_fcst_htf.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GDDP-CMIP6.json",
+        "rel": "child",
+        "title": "NASA_GDDP-CMIP6",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GEOS-CF_v1_fcst_htf.json",
         "rel": "child",
         "title": "NASA_GEOS-CF_v1_fcst_htf",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GEOS-CF/NASA_GEOS-CF_v1_rpl_htf.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GEOS-CF_v1_rpl_htf.json",
         "rel": "child",
         "title": "NASA_GEOS-CF_v1_rpl_htf",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GEOS-CF/NASA_GEOS-CF_v1_rpl_tavg1hr.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GEOS-CF_v1_rpl_tavg1hr.json",
         "rel": "child",
         "title": "NASA_GEOS-CF_v1_rpl_tavg1hr",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GIMMS/NASA_GIMMS_3GV0.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GIMMS_3GV0.json",
         "rel": "child",
         "title": "NASA_GIMMS_3GV0",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GLDAS/NASA_GLDAS_V021_NOAH_G025_T3H.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GLDAS_V021_NOAH_G025_T3H.json",
         "rel": "child",
         "title": "NASA_GLDAS_V021_NOAH_G025_T3H",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GLDAS/NASA_GLDAS_V022_CLSM_G025_DA1D.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GLDAS_V022_CLSM_G025_DA1D.json",
         "rel": "child",
         "title": "NASA_GLDAS_V022_CLSM_G025_DA1D",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GLDAS/NASA_GLDAS_V20_NOAH_G025_T3H.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GLDAS_V20_NOAH_G025_T3H.json",
         "rel": "child",
         "title": "NASA_GLDAS_V20_NOAH_G025_T3H",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GPM_L3/NASA_GPM_L3_IMERG_MONTHLY_V06.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GPM_L3_IMERG_MONTHLY_V06.json",
         "rel": "child",
         "title": "NASA_GPM_L3_IMERG_MONTHLY_V06",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GPM_L3/NASA_GPM_L3_IMERG_V06.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GPM_L3_IMERG_V06.json",
         "rel": "child",
         "title": "NASA_GPM_L3_IMERG_V06",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GRACE/NASA_GRACE_MASS_GRIDS_LAND.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GRACE_MASS_GRIDS_LAND.json",
         "rel": "child",
         "title": "NASA_GRACE_MASS_GRIDS_LAND",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GRACE/NASA_GRACE_MASS_GRIDS_MASCON.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GRACE_MASS_GRIDS_MASCON.json",
         "rel": "child",
         "title": "NASA_GRACE_MASS_GRIDS_MASCON",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GRACE/NASA_GRACE_MASS_GRIDS_MASCON_CRI.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GRACE_MASS_GRIDS_MASCON_CRI.json",
         "rel": "child",
         "title": "NASA_GRACE_MASS_GRIDS_MASCON_CRI",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GRACE/NASA_GRACE_MASS_GRIDS_OCEAN.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GRACE_MASS_GRIDS_OCEAN.json",
         "rel": "child",
         "title": "NASA_GRACE_MASS_GRIDS_OCEAN",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GRACE/NASA_GRACE_MASS_GRIDS_OCEAN_EOFR.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GRACE_MASS_GRIDS_OCEAN_EOFR.json",
         "rel": "child",
         "title": "NASA_GRACE_MASS_GRIDS_OCEAN_EOFR",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GSFC/NASA_GSFC_MERRA_aer_2.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GSFC_MERRA_aer_2.json",
         "rel": "child",
         "title": "NASA_GSFC_MERRA_aer_2",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GSFC/NASA_GSFC_MERRA_flx_2.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GSFC_MERRA_flx_2.json",
         "rel": "child",
         "title": "NASA_GSFC_MERRA_flx_2",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GSFC/NASA_GSFC_MERRA_lnd_2.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GSFC_MERRA_lnd_2.json",
         "rel": "child",
         "title": "NASA_GSFC_MERRA_lnd_2",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GSFC/NASA_GSFC_MERRA_rad_2.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GSFC_MERRA_rad_2.json",
         "rel": "child",
         "title": "NASA_GSFC_MERRA_rad_2",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/GSFC/NASA_GSFC_MERRA_slv_2.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GSFC_MERRA_slv_2.json",
         "rel": "child",
         "title": "NASA_GSFC_MERRA_slv_2",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/JPL/NASA_JPL_global_forest_canopy_height_2005.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_JPL_global_forest_canopy_height_2005.json",
         "rel": "child",
         "title": "NASA_JPL_global_forest_canopy_height_2005",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/MEASURES/NASA_MEASURES_GFCC_TC_v3.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_MEASURES_GFCC_TC_v3.json",
         "rel": "child",
         "title": "NASA_MEASURES_GFCC_TC_v3",
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASADEM_HGT/NASA_NASADEM_HGT_001.json",
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_NASADEM_HGT_001.json",
         "rel": "child",
         "title": "NASA_NASADEM_HGT_001",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NLDAS/NASA_NLDAS_FORA0125_H002.json",
-        "rel": "child",
-        "title": "NASA_NLDAS_FORA0125_H002",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/OCEANDATA/NASA_OCEANDATA_MODIS-Aqua_L3SMI.json",
-        "rel": "child",
-        "title": "NASA_OCEANDATA_MODIS-Aqua_L3SMI",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/OCEANDATA/NASA_OCEANDATA_MODIS-Terra_L3SMI.json",
-        "rel": "child",
-        "title": "NASA_OCEANDATA_MODIS-Terra_L3SMI",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/OCEANDATA/NASA_OCEANDATA_SeaWiFS_L3SMI.json",
-        "rel": "child",
-        "title": "NASA_OCEANDATA_SeaWiFS_L3SMI",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/ORNL/NASA_ORNL_DAYMET_V3.json",
-        "rel": "child",
-        "title": "NASA_ORNL_DAYMET_V3",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/ORNL/NASA_ORNL_DAYMET_V4.json",
-        "rel": "child",
-        "title": "NASA_ORNL_DAYMET_V4",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/ORNL/NASA_ORNL_biomass_carbon_density_v1.json",
-        "rel": "child",
-        "title": "NASA_ORNL_biomass_carbon_density_v1",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/SMAP/NASA_SMAP_SPL4SMGP_007.json",
-        "rel": "child",
-        "title": "NASA_SMAP_SPL4SMGP_007",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/SMAP/NASA_SMAP_SPL3SMP_E_005.json",
-        "rel": "child",
-        "title": "NASA_SMAP_SPL3SMP_E_005",
         "type": "application/json"
     },
     {
@@ -4545,6 +4497,60 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_NEX-GDDP.json",
         "rel": "child",
         "title": "NASA_NEX-GDDP",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_NLDAS_FORA0125_H002.json",
+        "rel": "child",
+        "title": "NASA_NLDAS_FORA0125_H002",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_OCEANDATA_MODIS-Aqua_L3SMI.json",
+        "rel": "child",
+        "title": "NASA_OCEANDATA_MODIS-Aqua_L3SMI",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_OCEANDATA_MODIS-Terra_L3SMI.json",
+        "rel": "child",
+        "title": "NASA_OCEANDATA_MODIS-Terra_L3SMI",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_OCEANDATA_SeaWiFS_L3SMI.json",
+        "rel": "child",
+        "title": "NASA_OCEANDATA_SeaWiFS_L3SMI",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_ORNL_DAYMET_V3.json",
+        "rel": "child",
+        "title": "NASA_ORNL_DAYMET_V3",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_ORNL_DAYMET_V4.json",
+        "rel": "child",
+        "title": "NASA_ORNL_DAYMET_V4",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_ORNL_biomass_carbon_density_v1.json",
+        "rel": "child",
+        "title": "NASA_ORNL_biomass_carbon_density_v1",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_SMAP_SPL4SMGP_007.json",
+        "rel": "child",
+        "title": "NASA_SMAP_SPL4SMGP_007",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_SMAP_SPL3SMP_E_005.json",
+        "rel": "child",
+        "title": "NASA_SMAP_SPL3SMP_E_005",
         "type": "application/json"
     },
     {
@@ -4584,300 +4590,6 @@
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/CDR/NOAA_CDR_ATMOS_NEAR_SURFACE_V2.json",
-        "rel": "child",
-        "title": "NOAA_CDR_ATMOS_NEAR_SURFACE_V2",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/CDR/NOAA_CDR_AVHRR_AOT_V3.json",
-        "rel": "child",
-        "title": "NOAA_CDR_AVHRR_AOT_V3",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/CDR/NOAA_CDR_AVHRR_LAI_FAPAR_V4.json",
-        "rel": "child",
-        "title": "NOAA_CDR_AVHRR_LAI_FAPAR_V4",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/CDR/NOAA_CDR_AVHRR_LAI_FAPAR_V5.json",
-        "rel": "child",
-        "title": "NOAA_CDR_AVHRR_LAI_FAPAR_V5",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/CDR/NOAA_CDR_AVHRR_NDVI_V4.json",
-        "rel": "child",
-        "title": "NOAA_CDR_AVHRR_NDVI_V4",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/CDR/NOAA_CDR_AVHRR_NDVI_V5.json",
-        "rel": "child",
-        "title": "NOAA_CDR_AVHRR_NDVI_V5",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/CDR/NOAA_CDR_AVHRR_SR_V4.json",
-        "rel": "child",
-        "title": "NOAA_CDR_AVHRR_SR_V4",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/CDR/NOAA_CDR_AVHRR_SR_V5.json",
-        "rel": "child",
-        "title": "NOAA_CDR_AVHRR_SR_V5",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/CDR/NOAA_CDR_GRIDSAT-B1_V2.json",
-        "rel": "child",
-        "title": "NOAA_CDR_GRIDSAT-B1_V2",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/CDR/NOAA_CDR_HEAT_FLUXES_V2.json",
-        "rel": "child",
-        "title": "NOAA_CDR_HEAT_FLUXES_V2",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/CDR/NOAA_CDR_OISST_V2.json",
-        "rel": "child",
-        "title": "NOAA_CDR_OISST_V2",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/CDR/NOAA_CDR_OISST_V2_1.json",
-        "rel": "child",
-        "title": "NOAA_CDR_OISST_V2_1",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/CDR/NOAA_CDR_PATMOSX_V53.json",
-        "rel": "child",
-        "title": "NOAA_CDR_PATMOSX_V53",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/CDR/NOAA_CDR_SST_PATHFINDER_V53.json",
-        "rel": "child",
-        "title": "NOAA_CDR_SST_PATHFINDER_V53",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/CDR/NOAA_CDR_SST_WHOI_V2.json",
-        "rel": "child",
-        "title": "NOAA_CDR_SST_WHOI_V2",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/CFSV2/NOAA_CFSV2_FOR6H.json",
-        "rel": "child",
-        "title": "NOAA_CFSV2_FOR6H",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/DMSP-OLS/NOAA_DMSP-OLS_CALIBRATED_LIGHTS_V4.json",
-        "rel": "child",
-        "title": "NOAA_DMSP-OLS_CALIBRATED_LIGHTS_V4",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/DMSP-OLS/NOAA_DMSP-OLS_NIGHTTIME_LIGHTS.json",
-        "rel": "child",
-        "title": "NOAA_DMSP-OLS_NIGHTTIME_LIGHTS",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_16_FDCC.json",
-        "rel": "child",
-        "title": "NOAA_GOES_16_FDCC",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_16_FDCF.json",
-        "rel": "child",
-        "title": "NOAA_GOES_16_FDCF",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_16_MCMIPC.json",
-        "rel": "child",
-        "title": "NOAA_GOES_16_MCMIPC",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_16_MCMIPF.json",
-        "rel": "child",
-        "title": "NOAA_GOES_16_MCMIPF",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_16_MCMIPM.json",
-        "rel": "child",
-        "title": "NOAA_GOES_16_MCMIPM",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_17_FDCC.json",
-        "rel": "child",
-        "title": "NOAA_GOES_17_FDCC",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_17_FDCF.json",
-        "rel": "child",
-        "title": "NOAA_GOES_17_FDCF",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_17_MCMIPC.json",
-        "rel": "child",
-        "title": "NOAA_GOES_17_MCMIPC",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_17_MCMIPF.json",
-        "rel": "child",
-        "title": "NOAA_GOES_17_MCMIPF",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_17_MCMIPM.json",
-        "rel": "child",
-        "title": "NOAA_GOES_17_MCMIPM",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_18_FDCC.json",
-        "rel": "child",
-        "title": "NOAA_GOES_18_FDCC",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_18_FDCF.json",
-        "rel": "child",
-        "title": "NOAA_GOES_18_FDCF",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_18_MCMIPC.json",
-        "rel": "child",
-        "title": "NOAA_GOES_18_MCMIPC",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_18_MCMIPF.json",
-        "rel": "child",
-        "title": "NOAA_GOES_18_MCMIPF",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/GOES/NOAA_GOES_18_MCMIPM.json",
-        "rel": "child",
-        "title": "NOAA_GOES_18_MCMIPM",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NCEP_DOE_RE2/NOAA_NCEP_DOE_RE2_total_cloud_coverage.json",
-        "rel": "child",
-        "title": "NOAA_NCEP_DOE_RE2_total_cloud_coverage",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NGDC/NOAA_NGDC_ETOPO1.json",
-        "rel": "child",
-        "title": "NOAA_NGDC_ETOPO1",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NHC/NOAA_NHC_HURDAT2_atlantic.json",
-        "rel": "child",
-        "title": "NOAA_NHC_HURDAT2_atlantic",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NHC/NOAA_NHC_HURDAT2_pacific.json",
-        "rel": "child",
-        "title": "NOAA_NHC_HURDAT2_pacific",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NWS/NOAA_NWS_RTMA.json",
-        "rel": "child",
-        "title": "NOAA_NWS_RTMA",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/VIIRS/NOAA_VIIRS_001_VNP09GA.json",
-        "rel": "child",
-        "title": "NOAA_VIIRS_001_VNP09GA",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/VIIRS/NOAA_VIIRS_001_VNP09H1.json",
-        "rel": "child",
-        "title": "NOAA_VIIRS_001_VNP09H1",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/VIIRS/NOAA_VIIRS_001_VNP13A1.json",
-        "rel": "child",
-        "title": "NOAA_VIIRS_001_VNP13A1",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/VIIRS/NOAA_VIIRS_001_VNP14A1.json",
-        "rel": "child",
-        "title": "NOAA_VIIRS_001_VNP14A1",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/VIIRS/NOAA_VIIRS_001_VNP21A1D.json",
-        "rel": "child",
-        "title": "NOAA_VIIRS_001_VNP21A1D",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/VIIRS/NOAA_VIIRS_001_VNP21A1N.json",
-        "rel": "child",
-        "title": "NOAA_VIIRS_001_VNP21A1N",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/VIIRS/NOAA_VIIRS_001_VNP22Q2.json",
-        "rel": "child",
-        "title": "NOAA_VIIRS_001_VNP22Q2",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/VIIRS/NOAA_VIIRS_001_VNP46A2.json",
-        "rel": "child",
-        "title": "NOAA_VIIRS_001_VNP46A2",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/VIIRS/NOAA_VIIRS_001_VNP64A1.json",
-        "rel": "child",
-        "title": "NOAA_VIIRS_001_VNP64A1",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/VIIRS/NOAA_VIIRS_DNB_MONTHLY_V1_VCMCFG.json",
-        "rel": "child",
-        "title": "NOAA_VIIRS_DNB_MONTHLY_V1_VCMCFG",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/VIIRS/NOAA_VIIRS_DNB_MONTHLY_V1_VCMSLCFG.json",
-        "rel": "child",
-        "title": "NOAA_VIIRS_DNB_MONTHLY_V1_VCMSLCFG",
-        "type": "application/json"
-    },
-    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_CFSR.json",
         "rel": "child",
         "title": "NOAA_CFSR",
@@ -4893,6 +4605,300 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_PERSIANN-CDR.json",
         "rel": "child",
         "title": "NOAA_PERSIANN-CDR",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_CDR_ATMOS_NEAR_SURFACE_V2.json",
+        "rel": "child",
+        "title": "NOAA_CDR_ATMOS_NEAR_SURFACE_V2",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_CDR_AVHRR_AOT_V3.json",
+        "rel": "child",
+        "title": "NOAA_CDR_AVHRR_AOT_V3",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_CDR_AVHRR_LAI_FAPAR_V4.json",
+        "rel": "child",
+        "title": "NOAA_CDR_AVHRR_LAI_FAPAR_V4",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_CDR_AVHRR_LAI_FAPAR_V5.json",
+        "rel": "child",
+        "title": "NOAA_CDR_AVHRR_LAI_FAPAR_V5",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_CDR_AVHRR_NDVI_V4.json",
+        "rel": "child",
+        "title": "NOAA_CDR_AVHRR_NDVI_V4",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_CDR_AVHRR_NDVI_V5.json",
+        "rel": "child",
+        "title": "NOAA_CDR_AVHRR_NDVI_V5",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_CDR_AVHRR_SR_V4.json",
+        "rel": "child",
+        "title": "NOAA_CDR_AVHRR_SR_V4",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_CDR_AVHRR_SR_V5.json",
+        "rel": "child",
+        "title": "NOAA_CDR_AVHRR_SR_V5",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_CDR_GRIDSAT-B1_V2.json",
+        "rel": "child",
+        "title": "NOAA_CDR_GRIDSAT-B1_V2",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_CDR_HEAT_FLUXES_V2.json",
+        "rel": "child",
+        "title": "NOAA_CDR_HEAT_FLUXES_V2",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_CDR_OISST_V2.json",
+        "rel": "child",
+        "title": "NOAA_CDR_OISST_V2",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_CDR_OISST_V2_1.json",
+        "rel": "child",
+        "title": "NOAA_CDR_OISST_V2_1",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_CDR_PATMOSX_V53.json",
+        "rel": "child",
+        "title": "NOAA_CDR_PATMOSX_V53",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_CDR_SST_PATHFINDER_V53.json",
+        "rel": "child",
+        "title": "NOAA_CDR_SST_PATHFINDER_V53",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_CDR_SST_WHOI_V2.json",
+        "rel": "child",
+        "title": "NOAA_CDR_SST_WHOI_V2",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_CFSV2_FOR6H.json",
+        "rel": "child",
+        "title": "NOAA_CFSV2_FOR6H",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_DMSP-OLS_CALIBRATED_LIGHTS_V4.json",
+        "rel": "child",
+        "title": "NOAA_DMSP-OLS_CALIBRATED_LIGHTS_V4",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_DMSP-OLS_NIGHTTIME_LIGHTS.json",
+        "rel": "child",
+        "title": "NOAA_DMSP-OLS_NIGHTTIME_LIGHTS",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_NGDC_ETOPO1.json",
+        "rel": "child",
+        "title": "NOAA_NGDC_ETOPO1",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_GOES_16_FDCC.json",
+        "rel": "child",
+        "title": "NOAA_GOES_16_FDCC",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_GOES_16_FDCF.json",
+        "rel": "child",
+        "title": "NOAA_GOES_16_FDCF",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_GOES_16_MCMIPC.json",
+        "rel": "child",
+        "title": "NOAA_GOES_16_MCMIPC",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_GOES_16_MCMIPF.json",
+        "rel": "child",
+        "title": "NOAA_GOES_16_MCMIPF",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_GOES_16_MCMIPM.json",
+        "rel": "child",
+        "title": "NOAA_GOES_16_MCMIPM",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_GOES_17_FDCC.json",
+        "rel": "child",
+        "title": "NOAA_GOES_17_FDCC",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_GOES_17_FDCF.json",
+        "rel": "child",
+        "title": "NOAA_GOES_17_FDCF",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_GOES_17_MCMIPC.json",
+        "rel": "child",
+        "title": "NOAA_GOES_17_MCMIPC",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_GOES_17_MCMIPF.json",
+        "rel": "child",
+        "title": "NOAA_GOES_17_MCMIPF",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_GOES_17_MCMIPM.json",
+        "rel": "child",
+        "title": "NOAA_GOES_17_MCMIPM",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_GOES_18_FDCC.json",
+        "rel": "child",
+        "title": "NOAA_GOES_18_FDCC",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_GOES_18_FDCF.json",
+        "rel": "child",
+        "title": "NOAA_GOES_18_FDCF",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_GOES_18_MCMIPC.json",
+        "rel": "child",
+        "title": "NOAA_GOES_18_MCMIPC",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_GOES_18_MCMIPF.json",
+        "rel": "child",
+        "title": "NOAA_GOES_18_MCMIPF",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_GOES_18_MCMIPM.json",
+        "rel": "child",
+        "title": "NOAA_GOES_18_MCMIPM",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_NCEP_DOE_RE2_total_cloud_coverage.json",
+        "rel": "child",
+        "title": "NOAA_NCEP_DOE_RE2_total_cloud_coverage",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_NHC_HURDAT2_atlantic.json",
+        "rel": "child",
+        "title": "NOAA_NHC_HURDAT2_atlantic",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_NHC_HURDAT2_pacific.json",
+        "rel": "child",
+        "title": "NOAA_NHC_HURDAT2_pacific",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_NWS_RTMA.json",
+        "rel": "child",
+        "title": "NOAA_NWS_RTMA",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_VIIRS_001_VNP09GA.json",
+        "rel": "child",
+        "title": "NOAA_VIIRS_001_VNP09GA",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_VIIRS_001_VNP09H1.json",
+        "rel": "child",
+        "title": "NOAA_VIIRS_001_VNP09H1",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_VIIRS_001_VNP13A1.json",
+        "rel": "child",
+        "title": "NOAA_VIIRS_001_VNP13A1",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_VIIRS_001_VNP14A1.json",
+        "rel": "child",
+        "title": "NOAA_VIIRS_001_VNP14A1",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_VIIRS_001_VNP21A1D.json",
+        "rel": "child",
+        "title": "NOAA_VIIRS_001_VNP21A1D",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_VIIRS_001_VNP21A1N.json",
+        "rel": "child",
+        "title": "NOAA_VIIRS_001_VNP21A1N",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_VIIRS_001_VNP22Q2.json",
+        "rel": "child",
+        "title": "NOAA_VIIRS_001_VNP22Q2",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_VIIRS_001_VNP46A2.json",
+        "rel": "child",
+        "title": "NOAA_VIIRS_001_VNP46A2",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_VIIRS_001_VNP64A1.json",
+        "rel": "child",
+        "title": "NOAA_VIIRS_001_VNP64A1",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_VIIRS_DNB_MONTHLY_V1_VCMCFG.json",
+        "rel": "child",
+        "title": "NOAA_VIIRS_DNB_MONTHLY_V1_VCMCFG",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_VIIRS_DNB_MONTHLY_V1_VCMSLCFG.json",
+        "rel": "child",
+        "title": "NOAA_VIIRS_DNB_MONTHLY_V1_VCMSLCFG",
         "type": "application/json"
     },
     {
@@ -5496,156 +5502,6 @@
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/3DEP/USGS_3DEP_10m.json",
-        "rel": "child",
-        "title": "USGS_3DEP_10m",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/3DEP/USGS_3DEP_10m_metadata.json",
-        "rel": "child",
-        "title": "USGS_3DEP_10m_metadata",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/3DEP/USGS_3DEP_1m.json",
-        "rel": "child",
-        "title": "USGS_3DEP_1m",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/GAP/USGS_GAP_AK_2001.json",
-        "rel": "child",
-        "title": "USGS_GAP_AK_2001",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/GAP/USGS_GAP_CONUS_2011.json",
-        "rel": "child",
-        "title": "USGS_GAP_CONUS_2011",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/GAP/USGS_GAP_HI_2001.json",
-        "rel": "child",
-        "title": "USGS_GAP_HI_2001",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/GAP/USGS_GAP_PAD-US_v20_designation.json",
-        "rel": "child",
-        "title": "USGS_GAP_PAD-US_v20_designation",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/GAP/USGS_GAP_PAD-US_v20_easement.json",
-        "rel": "child",
-        "title": "USGS_GAP_PAD-US_v20_easement",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/GAP/USGS_GAP_PAD-US_v20_fee.json",
-        "rel": "child",
-        "title": "USGS_GAP_PAD-US_v20_fee",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/GAP/USGS_GAP_PAD-US_v20_proclamation.json",
-        "rel": "child",
-        "title": "USGS_GAP_PAD-US_v20_proclamation",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/GAP/USGS_GAP_PR_2001.json",
-        "rel": "child",
-        "title": "USGS_GAP_PR_2001",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/GFSAD1000/USGS_GFSAD1000_V0.json",
-        "rel": "child",
-        "title": "USGS_GFSAD1000_V0",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/GFSAD1000/USGS_GFSAD1000_V1.json",
-        "rel": "child",
-        "title": "USGS_GFSAD1000_V1",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/LIMA/USGS_LIMA_MOSAIC.json",
-        "rel": "child",
-        "title": "USGS_LIMA_MOSAIC",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/LIMA/USGS_LIMA_SR.json",
-        "rel": "child",
-        "title": "USGS_LIMA_SR",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/NLCD_RELEASES/USGS_NLCD_RELEASES_2016_REL.json",
-        "rel": "child",
-        "title": "USGS_NLCD_RELEASES_2016_REL",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/NLCD_RELEASES/USGS_NLCD_RELEASES_2019_REL_NLCD.json",
-        "rel": "child",
-        "title": "USGS_NLCD_RELEASES_2019_REL_NLCD",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/NLCD_RELEASES/USGS_NLCD_RELEASES_2019_REL_RCMAP_V4_COVER.json",
-        "rel": "child",
-        "title": "USGS_NLCD_RELEASES_2019_REL_RCMAP_V4_COVER",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/NLCD_RELEASES/USGS_NLCD_RELEASES_2019_REL_RCMAP_V5_COVER.json",
-        "rel": "child",
-        "title": "USGS_NLCD_RELEASES_2019_REL_RCMAP_V5_COVER",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/WBD/USGS_WBD_2017_HUC02.json",
-        "rel": "child",
-        "title": "USGS_WBD_2017_HUC02",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/WBD/USGS_WBD_2017_HUC04.json",
-        "rel": "child",
-        "title": "USGS_WBD_2017_HUC04",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/WBD/USGS_WBD_2017_HUC06.json",
-        "rel": "child",
-        "title": "USGS_WBD_2017_HUC06",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/WBD/USGS_WBD_2017_HUC08.json",
-        "rel": "child",
-        "title": "USGS_WBD_2017_HUC08",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/WBD/USGS_WBD_2017_HUC10.json",
-        "rel": "child",
-        "title": "USGS_WBD_2017_HUC10",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/WBD/USGS_WBD_2017_HUC12.json",
-        "rel": "child",
-        "title": "USGS_WBD_2017_HUC12",
-        "type": "application/json"
-    },
-    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_GMTED2010.json",
         "rel": "child",
         "title": "USGS_GMTED2010",
@@ -5673,6 +5529,156 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_SRTMGL1_003.json",
         "rel": "child",
         "title": "USGS_SRTMGL1_003",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_3DEP_10m.json",
+        "rel": "child",
+        "title": "USGS_3DEP_10m",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_3DEP_10m_metadata.json",
+        "rel": "child",
+        "title": "USGS_3DEP_10m_metadata",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_3DEP_1m.json",
+        "rel": "child",
+        "title": "USGS_3DEP_1m",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_GAP_AK_2001.json",
+        "rel": "child",
+        "title": "USGS_GAP_AK_2001",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_GAP_CONUS_2011.json",
+        "rel": "child",
+        "title": "USGS_GAP_CONUS_2011",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_GAP_HI_2001.json",
+        "rel": "child",
+        "title": "USGS_GAP_HI_2001",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_GAP_PAD-US_v20_designation.json",
+        "rel": "child",
+        "title": "USGS_GAP_PAD-US_v20_designation",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_GAP_PAD-US_v20_easement.json",
+        "rel": "child",
+        "title": "USGS_GAP_PAD-US_v20_easement",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_GAP_PAD-US_v20_fee.json",
+        "rel": "child",
+        "title": "USGS_GAP_PAD-US_v20_fee",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_GAP_PAD-US_v20_proclamation.json",
+        "rel": "child",
+        "title": "USGS_GAP_PAD-US_v20_proclamation",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_GAP_PR_2001.json",
+        "rel": "child",
+        "title": "USGS_GAP_PR_2001",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_GFSAD1000_V0.json",
+        "rel": "child",
+        "title": "USGS_GFSAD1000_V0",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_GFSAD1000_V1.json",
+        "rel": "child",
+        "title": "USGS_GFSAD1000_V1",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_LIMA_MOSAIC.json",
+        "rel": "child",
+        "title": "USGS_LIMA_MOSAIC",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_LIMA_SR.json",
+        "rel": "child",
+        "title": "USGS_LIMA_SR",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_NLCD_RELEASES_2016_REL.json",
+        "rel": "child",
+        "title": "USGS_NLCD_RELEASES_2016_REL",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_NLCD_RELEASES_2019_REL_NLCD.json",
+        "rel": "child",
+        "title": "USGS_NLCD_RELEASES_2019_REL_NLCD",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_NLCD_RELEASES_2019_REL_RCMAP_V4_COVER.json",
+        "rel": "child",
+        "title": "USGS_NLCD_RELEASES_2019_REL_RCMAP_V4_COVER",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_NLCD_RELEASES_2019_REL_RCMAP_V5_COVER.json",
+        "rel": "child",
+        "title": "USGS_NLCD_RELEASES_2019_REL_RCMAP_V5_COVER",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_WBD_2017_HUC02.json",
+        "rel": "child",
+        "title": "USGS_WBD_2017_HUC02",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_WBD_2017_HUC04.json",
+        "rel": "child",
+        "title": "USGS_WBD_2017_HUC04",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_WBD_2017_HUC06.json",
+        "rel": "child",
+        "title": "USGS_WBD_2017_HUC06",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_WBD_2017_HUC08.json",
+        "rel": "child",
+        "title": "USGS_WBD_2017_HUC08",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_WBD_2017_HUC10.json",
+        "rel": "child",
+        "title": "USGS_WBD_2017_HUC10",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_WBD_2017_HUC12.json",
+        "rel": "child",
+        "title": "USGS_WBD_2017_HUC12",
         "type": "application/json"
     },
     {
