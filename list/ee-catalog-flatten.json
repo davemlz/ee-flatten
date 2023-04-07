@@ -5808,6 +5808,60 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WWF/WWF_HydroATLAS_v1_Basins_level03.json",
+        "rel": "child",
+        "title": "WWF_HydroATLAS_v1_Basins_level03",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WWF/WWF_HydroATLAS_v1_Basins_level04.json",
+        "rel": "child",
+        "title": "WWF_HydroATLAS_v1_Basins_level04",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WWF/WWF_HydroATLAS_v1_Basins_level05.json",
+        "rel": "child",
+        "title": "WWF_HydroATLAS_v1_Basins_level05",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WWF/WWF_HydroATLAS_v1_Basins_level06.json",
+        "rel": "child",
+        "title": "WWF_HydroATLAS_v1_Basins_level06",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WWF/WWF_HydroATLAS_v1_Basins_level07.json",
+        "rel": "child",
+        "title": "WWF_HydroATLAS_v1_Basins_level07",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WWF/WWF_HydroATLAS_v1_Basins_level08.json",
+        "rel": "child",
+        "title": "WWF_HydroATLAS_v1_Basins_level08",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WWF/WWF_HydroATLAS_v1_Basins_level09.json",
+        "rel": "child",
+        "title": "WWF_HydroATLAS_v1_Basins_level09",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WWF/WWF_HydroATLAS_v1_Basins_level10.json",
+        "rel": "child",
+        "title": "WWF_HydroATLAS_v1_Basins_level10",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WWF/WWF_HydroATLAS_v1_Basins_level11.json",
+        "rel": "child",
+        "title": "WWF_HydroATLAS_v1_Basins_level11",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/WWF/WWF_HydroATLAS_v1_Basins_level12.json",
         "rel": "child",
         "title": "WWF_HydroATLAS_v1_Basins_level12",
