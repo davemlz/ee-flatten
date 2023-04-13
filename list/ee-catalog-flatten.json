@@ -3744,6 +3744,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/MODIS/MODIS_061_MCD19A2_GRANULES.json",
+        "rel": "child",
+        "title": "MODIS_061_MCD19A2_GRANULES",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/MODIS/MODIS_061_MCD43A1.json",
         "rel": "child",
         "title": "MODIS_061_MCD43A1",
