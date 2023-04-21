@@ -582,6 +582,18 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/Estonia/Estonia_Maamet_orthos_rgb.json",
+        "rel": "child",
+        "title": "Estonia_Maamet_orthos_rgb",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/Estonia/Estonia_Maamet_orthos_mono.json",
+        "rel": "child",
+        "title": "Estonia_Maamet_orthos_mono",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/FAO/FAO_GAUL_2015_level0.json",
         "rel": "child",
         "title": "FAO_GAUL_2015_level0",
