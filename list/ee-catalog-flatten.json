@@ -4998,6 +4998,42 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/OpenET/OpenET_DISALEXI_CONUS_GRIDMET_MONTHLY_v2_0.json",
+        "rel": "child",
+        "title": "OpenET_DISALEXI_CONUS_GRIDMET_MONTHLY_v2_0",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/OpenET/OpenET_EEMETRIC_CONUS_GRIDMET_MONTHLY_v2_0.json",
+        "rel": "child",
+        "title": "OpenET_EEMETRIC_CONUS_GRIDMET_MONTHLY_v2_0",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/OpenET/OpenET_GEESEBAL_CONUS_GRIDMET_MONTHLY_v2_0.json",
+        "rel": "child",
+        "title": "OpenET_GEESEBAL_CONUS_GRIDMET_MONTHLY_v2_0",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/OpenET/OpenET_PTJPL_CONUS_GRIDMET_MONTHLY_v2_0.json",
+        "rel": "child",
+        "title": "OpenET_PTJPL_CONUS_GRIDMET_MONTHLY_v2_0",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/OpenET/OpenET_SIMS_CONUS_GRIDMET_MONTHLY_v2_0.json",
+        "rel": "child",
+        "title": "OpenET_SIMS_CONUS_GRIDMET_MONTHLY_v2_0",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/OpenET/OpenET_SSEBOP_CONUS_GRIDMET_MONTHLY_v2_0.json",
+        "rel": "child",
+        "title": "OpenET_SSEBOP_CONUS_GRIDMET_MONTHLY_v2_0",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/OpenLandMap/OpenLandMap_CLM_CLM_LST_MOD11A2-DAYNIGHT_M_v01.json",
         "rel": "child",
         "title": "OpenLandMap_CLM_CLM_LST_MOD11A2-DAYNIGHT_M_v01",
