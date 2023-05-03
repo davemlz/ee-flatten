@@ -4908,6 +4908,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_VIIRS_001_VNP46A1.json",
+        "rel": "child",
+        "title": "NOAA_VIIRS_001_VNP46A1",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_VIIRS_001_VNP46A2.json",
         "rel": "child",
         "title": "NOAA_VIIRS_001_VNP46A2",
