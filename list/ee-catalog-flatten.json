@@ -3414,6 +3414,18 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/Latvia/Latvia_Maamet_orthos_rgb.json",
+        "rel": "child",
+        "title": "Latvia_Maamet_orthos_rgb",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/Latvia/Latvia_Maamet_orthos_cir.json",
+        "rel": "child",
+        "title": "Latvia_Maamet_orthos_cir",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/MERIT/MERIT_DEM_v1_0_3.json",
         "rel": "child",
         "title": "MERIT_DEM_v1_0_3",
