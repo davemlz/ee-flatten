@@ -5436,6 +5436,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/UMD/UMD_hansen_global_forest_change_2022_v1_10.json",
+        "rel": "child",
+        "title": "UMD_hansen_global_forest_change_2022_v1_10",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/UMN/UMN_PGC_ArcticDEM_V2_2m.json",
         "rel": "child",
         "title": "UMN_PGC_ArcticDEM_V2_2m",
