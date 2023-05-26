@@ -6156,6 +6156,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/ngis-cat/projects_ngis-cat_assets_DEA_NIDEM.json",
+        "rel": "child",
+        "title": "projects_ngis-cat_assets_DEA_NIDEM",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/planet-nicfi/projects_planet-nicfi_assets_basemaps_africa.json",
         "rel": "child",
         "title": "projects_planet-nicfi_assets_basemaps_africa",
