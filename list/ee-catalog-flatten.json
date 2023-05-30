@@ -4986,12 +4986,6 @@
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/ORTHO/ORTHO_Switzerland_SWISSIMAGE_10cm.json",
-        "rel": "child",
-        "title": "ORTHO_Switzerland_SWISSIMAGE_10cm",
-        "type": "application/json"
-    },
-    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/OSU/OSU_GIMP_2000_ICE_OCEAN_MASK.json",
         "rel": "child",
         "title": "OSU_GIMP_2000_ICE_OCEAN_MASK",
@@ -5241,6 +5235,12 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/Spain/Spain_PNOA_PNOA10.json",
         "rel": "child",
         "title": "Spain_PNOA_PNOA10",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/Switzerland/Switzerland_SWISSIMAGE_orthos_10cm.json",
+        "rel": "child",
+        "title": "Switzerland_SWISSIMAGE_orthos_10cm",
         "type": "application/json"
     },
     {
