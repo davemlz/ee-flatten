@@ -3900,6 +3900,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/MODIS/MODIS_061_MOD16A2.json",
+        "rel": "child",
+        "title": "MODIS_061_MOD16A2",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/MODIS/MODIS_061_MOD17A3HGF.json",
         "rel": "child",
         "title": "MODIS_061_MOD17A3HGF",
