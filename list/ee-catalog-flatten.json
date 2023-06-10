@@ -3852,6 +3852,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/MODIS/MODIS_061_MOD10A1.json",
+        "rel": "child",
+        "title": "MODIS_061_MOD10A1",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/MODIS/MODIS_061_MOD11A1.json",
         "rel": "child",
         "title": "MODIS_061_MOD11A1",
@@ -3969,6 +3975,12 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/MODIS/MODIS_061_MYD09Q1.json",
         "rel": "child",
         "title": "MODIS_061_MYD09Q1",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/MODIS/MODIS_061_MYD10A1.json",
+        "rel": "child",
+        "title": "MODIS_061_MYD10A1",
         "type": "application/json"
     },
     {
