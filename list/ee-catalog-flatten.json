@@ -5772,6 +5772,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_NLCD_RELEASES_2020_REL_NALCMS.json",
+        "rel": "child",
+        "title": "USGS_NLCD_RELEASES_2020_REL_NALCMS",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_WBD_2017_HUC02.json",
         "rel": "child",
         "title": "USGS_WBD_2017_HUC02",
