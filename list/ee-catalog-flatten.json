@@ -810,6 +810,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/GOOGLE/GOOGLE_Research_open-buildings_v3_polygons.json",
+        "rel": "child",
+        "title": "GOOGLE_Research_open-buildings_v3_polygons",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/GRIDMET/GRIDMET_DROUGHT.json",
         "rel": "child",
         "title": "GRIDMET_DROUGHT",
@@ -4965,6 +4971,12 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_VIIRS_001_VNP64A1.json",
         "rel": "child",
         "title": "NOAA_VIIRS_001_VNP64A1",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_VIIRS_DNB_ANNUAL_V21.json",
+        "rel": "child",
+        "title": "NOAA_VIIRS_DNB_ANNUAL_V21",
         "type": "application/json"
     },
     {
