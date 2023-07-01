@@ -5268,6 +5268,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/Slovakia/Slovakia_orthos_25cm.json",
+        "rel": "child",
+        "title": "Slovakia_orthos_25cm",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/Spain/Spain_PNOA_PNOA10.json",
         "rel": "child",
         "title": "Spain_PNOA_PNOA10",
