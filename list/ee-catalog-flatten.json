@@ -588,6 +588,24 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/ESA/ESA_WorldCereal_AEZ_v100.json",
+        "rel": "child",
+        "title": "ESA_WorldCereal_AEZ_v100",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/ESA/ESA_WorldCereal_2021_MODELS_v100.json",
+        "rel": "child",
+        "title": "ESA_WorldCereal_2021_MODELS_v100",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/ESA/ESA_WorldCereal_2021_MARKERS_v100.json",
+        "rel": "child",
+        "title": "ESA_WorldCereal_2021_MARKERS_v100",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/Estonia/Estonia_Maamet_orthos_rgb.json",
         "rel": "child",
         "title": "Estonia_Maamet_orthos_rgb",
