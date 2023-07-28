@@ -1218,6 +1218,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GHSL_P2023A_GHS_SMOD.json",
+        "rel": "child",
+        "title": "JRC_GHSL_P2023A_GHS_SMOD",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GSW1_0_GlobalSurfaceWater.json",
         "rel": "child",
         "title": "JRC_GSW1_0_GlobalSurfaceWater",
