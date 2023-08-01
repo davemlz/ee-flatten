@@ -5574,12 +5574,6 @@
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/UMT/UMT_Climate_IrrMapper_RF_v1_0.json",
-        "rel": "child",
-        "title": "UMT_Climate_IrrMapper_RF_v1_0",
-        "type": "application/json"
-    },
-    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/UMT/UMT_NTSG_v2_LANDSAT_GPP.json",
         "rel": "child",
         "title": "UMT_NTSG_v2_LANDSAT_GPP",
