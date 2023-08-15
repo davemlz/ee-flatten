@@ -1224,6 +1224,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GHSL_P2023A_GHS_BUILT_S.json",
+        "rel": "child",
+        "title": "JRC_GHSL_P2023A_GHS_BUILT_S",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GSW1_0_GlobalSurfaceWater.json",
         "rel": "child",
         "title": "JRC_GSW1_0_GlobalSurfaceWater",
@@ -5577,6 +5583,12 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/UMN/UMN_PGC_REMA_V1_8m.json",
         "rel": "child",
         "title": "UMN_PGC_REMA_V1_8m",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/UMT/UMT_Climate_IrrMapper_RF_v1_1.json",
+        "rel": "child",
+        "title": "UMT_Climate_IrrMapper_RF_v1_1",
         "type": "application/json"
     },
     {
