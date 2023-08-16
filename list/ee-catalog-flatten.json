@@ -1224,6 +1224,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GHSL_P2023A_GHS_BUILT_H.json",
+        "rel": "child",
+        "title": "JRC_GHSL_P2023A_GHS_BUILT_H",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GHSL_P2023A_GHS_BUILT_S.json",
         "rel": "child",
         "title": "JRC_GHSL_P2023A_GHS_BUILT_S",
@@ -4701,6 +4707,12 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NCEP_RE/NCEP_RE_surface_wv.json",
         "rel": "child",
         "title": "NCEP_RE_surface_wv",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/Netherlands/Netherlands_Beeldmateriaal_LUCHTFOTO_RGB.json",
+        "rel": "child",
+        "title": "Netherlands_Beeldmateriaal_LUCHTFOTO_RGB",
         "type": "application/json"
     },
     {
