@@ -5832,6 +5832,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_NLCD_RELEASES_2021_REL_NLCD.json",
+        "rel": "child",
+        "title": "USGS_NLCD_RELEASES_2021_REL_NLCD",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_WBD_2017_HUC02.json",
         "rel": "child",
         "title": "USGS_WBD_2017_HUC02",
