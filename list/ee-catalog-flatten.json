@@ -96,6 +96,30 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/CIESIN/CIESIN_GPWv411_GPW_Population_Count.json",
+        "rel": "child",
+        "title": "CIESIN_GPWv411_GPW_Population_Count",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/CIESIN/CIESIN_GPWv411_GPW_Population_Density.json",
+        "rel": "child",
+        "title": "CIESIN_GPWv411_GPW_Population_Density",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/CIESIN/CIESIN_GPWv411_GPW_UNWPP-Adjusted_Population_Count.json",
+        "rel": "child",
+        "title": "CIESIN_GPWv411_GPW_UNWPP-Adjusted_Population_Count",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/CIESIN/CIESIN_GPWv411_GPW_UNWPP-Adjusted_Population_Density.json",
+        "rel": "child",
+        "title": "CIESIN_GPWv411_GPW_UNWPP-Adjusted_Population_Density",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/CIESIN/CIESIN_GPWv4_ancillary-data-grids.json",
         "rel": "child",
         "title": "CIESIN_GPWv4_ancillary-data-grids",
