@@ -4044,6 +4044,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/MODIS/MODIS_061_MYD13A3.json",
+        "rel": "child",
+        "title": "MODIS_061_MYD13A3",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/MODIS/MODIS_061_MYD13Q1.json",
         "rel": "child",
         "title": "MODIS_061_MYD13Q1",
