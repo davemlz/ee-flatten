@@ -96,6 +96,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/CIESIN/CIESIN_GPWv411_GPW_Basic_Demographic_Characteristics.json",
+        "rel": "child",
+        "title": "CIESIN_GPWv411_GPW_Basic_Demographic_Characteristics",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/CIESIN/CIESIN_GPWv411_GPW_Population_Count.json",
         "rel": "child",
         "title": "CIESIN_GPWv411_GPW_Population_Count",
