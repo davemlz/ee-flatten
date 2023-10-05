@@ -102,6 +102,30 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/CIESIN/CIESIN_GPWv411_GPW_Data_Context.json",
+        "rel": "child",
+        "title": "CIESIN_GPWv411_GPW_Data_Context",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/CIESIN/CIESIN_GPWv411_GPW_Land_Area.json",
+        "rel": "child",
+        "title": "CIESIN_GPWv411_GPW_Land_Area",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/CIESIN/CIESIN_GPWv411_GPW_Mean_Administrative_Unit_Area.json",
+        "rel": "child",
+        "title": "CIESIN_GPWv411_GPW_Mean_Administrative_Unit_Area",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/CIESIN/CIESIN_GPWv411_GPW_National_Identifier_Grid.json",
+        "rel": "child",
+        "title": "CIESIN_GPWv411_GPW_National_Identifier_Grid",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/CIESIN/CIESIN_GPWv411_GPW_Population_Count.json",
         "rel": "child",
         "title": "CIESIN_GPWv411_GPW_Population_Count",
@@ -123,6 +147,18 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/CIESIN/CIESIN_GPWv411_GPW_UNWPP-Adjusted_Population_Density.json",
         "rel": "child",
         "title": "CIESIN_GPWv411_GPW_UNWPP-Adjusted_Population_Density",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/CIESIN/CIESIN_GPWv411_GPW_Water_Area.json",
+        "rel": "child",
+        "title": "CIESIN_GPWv411_GPW_Water_Area",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/CIESIN/CIESIN_GPWv411_GPW_Water_Mask.json",
+        "rel": "child",
+        "title": "CIESIN_GPWv411_GPW_Water_Mask",
         "type": "application/json"
     },
     {
@@ -771,6 +807,12 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/GLOBAL_FLOOD_DB/GLOBAL_FLOOD_DB_MODIS_EVENTS_V1.json",
         "rel": "child",
         "title": "GLOBAL_FLOOD_DB_MODIS_EVENTS_V1",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/GOOGLE/GOOGLE_CLOUD_SCORE_PLUS_V1_S2_HARMONIZED.json",
+        "rel": "child",
+        "title": "GOOGLE_CLOUD_SCORE_PLUS_V1_S2_HARMONIZED",
         "type": "application/json"
     },
     {
@@ -6303,6 +6345,24 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/planet-nicfi/projects_planet-nicfi_assets_basemaps_asia.json",
         "rel": "child",
         "title": "projects_planet-nicfi_assets_basemaps_asia",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/sat-io/projects_sat-io_open-datasets_GLOBathy_GLOBathy_bathymetry.json",
+        "rel": "child",
+        "title": "projects_sat-io_open-datasets_GLOBathy_GLOBathy_bathymetry",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/sat-io/projects_sat-io_open-datasets_ORNL_LANDSCAN_GLOBAL.json",
+        "rel": "child",
+        "title": "projects_sat-io_open-datasets_ORNL_LANDSCAN_GLOBAL",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/sat-io/projects_sat-io_open-datasets_us-drought-monitor.json",
+        "rel": "child",
+        "title": "projects_sat-io_open-datasets_us-drought-monitor",
         "type": "application/json"
     }
 ]
