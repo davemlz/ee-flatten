@@ -6324,6 +6324,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/geoscience-aus-cat/projects_geoscience-aus-cat_assets_NIDEM.json",
+        "rel": "child",
+        "title": "projects_geoscience-aus-cat_assets_NIDEM",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/ngis-cat/projects_ngis-cat_assets_DEA_NIDEM.json",
         "rel": "child",
         "title": "projects_ngis-cat_assets_DEA_NIDEM",
