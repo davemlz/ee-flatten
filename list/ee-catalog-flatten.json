@@ -6342,30 +6342,6 @@
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/geoscience-aus-cat/projects_geoscience-aus-cat_assets_ga_landcover.json",
-        "rel": "child",
-        "title": "projects_geoscience-aus-cat_assets_ga_landcover",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/geoscience-aus-cat/projects_geoscience-aus-cat_assets_geomedians_LS5.json",
-        "rel": "child",
-        "title": "projects_geoscience-aus-cat_assets_geomedians_LS5",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/geoscience-aus-cat/projects_geoscience-aus-cat_assets_geomedians_LS7.json",
-        "rel": "child",
-        "title": "projects_geoscience-aus-cat_assets_geomedians_LS7",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/geoscience-aus-cat/projects_geoscience-aus-cat_assets_geomedians_LS8.json",
-        "rel": "child",
-        "title": "projects_geoscience-aus-cat_assets_geomedians_LS8",
-        "type": "application/json"
-    },
-    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/ngis-cat/projects_ngis-cat_assets_DEA_NIDEM.json",
         "rel": "child",
         "title": "projects_ngis-cat_assets_DEA_NIDEM",
