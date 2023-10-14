@@ -4632,6 +4632,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_HLS_HLSL30_v002.json",
+        "rel": "child",
+        "title": "NASA_HLS_HLSL30_v002",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_JPL_global_forest_canopy_height_2005.json",
         "rel": "child",
         "title": "NASA_JPL_global_forest_canopy_height_2005",
