@@ -6348,6 +6348,36 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/geoscience-aus-cat/projects_geoscience-aus-cat_assets_ga_ls_landcover_class_cyear_2.json",
+        "rel": "child",
+        "title": "projects_geoscience-aus-cat_assets_ga_ls_landcover_class_cyear_2",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/geoscience-aus-cat/projects_geoscience-aus-cat_assets_ga_ls5t_nbart_gm_cyear_3.json",
+        "rel": "child",
+        "title": "projects_geoscience-aus-cat_assets_ga_ls5t_nbart_gm_cyear_3",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/geoscience-aus-cat/projects_geoscience-aus-cat_assets_ga_ls7e_nbart_gm_cyear_3.json",
+        "rel": "child",
+        "title": "projects_geoscience-aus-cat_assets_ga_ls7e_nbart_gm_cyear_3",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/geoscience-aus-cat/projects_geoscience-aus-cat_assets_ga_ls8c_nbart_gm_cyear_3.json",
+        "rel": "child",
+        "title": "projects_geoscience-aus-cat_assets_ga_ls8c_nbart_gm_cyear_3",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/geoscience-aus-cat/projects_geoscience-aus-cat_assets_ga_ls_wo_fq_cyear_3.json",
+        "rel": "child",
+        "title": "projects_geoscience-aus-cat_assets_ga_ls_wo_fq_cyear_3",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/ngis-cat/projects_ngis-cat_assets_DEA_NIDEM.json",
         "rel": "child",
         "title": "projects_ngis-cat_assets_DEA_NIDEM",
