@@ -3846,6 +3846,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/MODIS/MODIS_061_MCD18A1.json",
+        "rel": "child",
+        "title": "MODIS_061_MCD18A1",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/MODIS/MODIS_061_MCD18C2.json",
         "rel": "child",
         "title": "MODIS_061_MCD18C2",
