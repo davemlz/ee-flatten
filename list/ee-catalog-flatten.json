@@ -4008,6 +4008,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/MODIS/MODIS_061_MOD16A2GF.json",
+        "rel": "child",
+        "title": "MODIS_061_MOD16A2GF",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/MODIS/MODIS_061_MOD17A2H.json",
         "rel": "child",
         "title": "MODIS_061_MOD17A2H",
