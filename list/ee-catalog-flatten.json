@@ -5376,6 +5376,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/RUB/RUB_RUBCLIM_LCZ_global_lcz_map_latest.json",
+        "rel": "child",
+        "title": "RUB_RUBCLIM_LCZ_global_lcz_map_latest",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/RUB/RUB_RUBCLIM_LCZ_global_lcz_map_v1.json",
         "rel": "child",
         "title": "RUB_RUBCLIM_LCZ_global_lcz_map_v1",
