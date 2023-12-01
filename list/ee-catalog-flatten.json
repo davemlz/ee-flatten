@@ -4626,6 +4626,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GSFC_MERRA_aer_nv_2.json",
+        "rel": "child",
+        "title": "NASA_GSFC_MERRA_aer_nv_2",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GSFC_MERRA_flx_2.json",
         "rel": "child",
         "title": "NASA_GSFC_MERRA_flx_2",
