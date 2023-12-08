@@ -1212,6 +1212,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GFC2020_V1.json",
+        "rel": "child",
+        "title": "JRC_GFC2020_V1",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GHSL_P2016_BUILT_LDSMT_GLOBE_V1.json",
         "rel": "child",
         "title": "JRC_GHSL_P2016_BUILT_LDSMT_GLOBE_V1",
