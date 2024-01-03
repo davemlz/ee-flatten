@@ -5802,6 +5802,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USFS/USFS_GTAC_TreeMap_v2016.json",
+        "rel": "child",
+        "title": "USFS_GTAC_TreeMap_v2016",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_GMTED2010.json",
         "rel": "child",
         "title": "USGS_GMTED2010",
