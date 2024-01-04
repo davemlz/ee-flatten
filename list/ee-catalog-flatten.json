@@ -384,6 +384,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/CSIC/CSIC_SPEI_2_9.json",
+        "rel": "child",
+        "title": "CSIC_SPEI_2_9",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/CSIRO/CSIRO_SLGA.json",
         "rel": "child",
         "title": "CSIRO_SLGA",
