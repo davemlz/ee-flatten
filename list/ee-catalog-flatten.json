@@ -1104,6 +1104,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JAXA/JAXA_ALOS_PALSAR-2_Level2_1_StripMap_202401.json",
+        "rel": "child",
+        "title": "JAXA_ALOS_PALSAR-2_Level2_1_StripMap_202401",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/JAXA/JAXA_ALOS_PALSAR-2_Level2_2_ScanSAR.json",
         "rel": "child",
         "title": "JAXA_ALOS_PALSAR-2_Level2_2_ScanSAR",
