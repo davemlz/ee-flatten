@@ -5958,6 +5958,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_LIMA_SR_METADATA.json",
+        "rel": "child",
+        "title": "USGS_LIMA_SR_METADATA",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_NLCD_RELEASES_2016_REL.json",
         "rel": "child",
         "title": "USGS_NLCD_RELEASES_2016_REL",
