@@ -4854,6 +4854,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_CDR_AVHRR_AOT_V4.json",
+        "rel": "child",
+        "title": "NOAA_CDR_AVHRR_AOT_V4",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_CDR_AVHRR_LAI_FAPAR_V4.json",
         "rel": "child",
         "title": "NOAA_CDR_AVHRR_LAI_FAPAR_V4",
@@ -6123,6 +6129,24 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/WHRC/WHRC_biomass_tropical.json",
         "rel": "child",
         "title": "WHRC_biomass_tropical",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WM/WM_geoLab_geoBoundaries_500_ADM0.json",
+        "rel": "child",
+        "title": "WM_geoLab_geoBoundaries_500_ADM0",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WM/WM_geoLab_geoBoundaries_500_ADM1.json",
+        "rel": "child",
+        "title": "WM_geoLab_geoBoundaries_500_ADM1",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WM/WM_geoLab_geoBoundaries_500_ADM2.json",
+        "rel": "child",
+        "title": "WM_geoLab_geoBoundaries_500_ADM2",
         "type": "application/json"
     },
     {
