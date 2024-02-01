@@ -5850,6 +5850,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_GMTED2010_FULL.json",
+        "rel": "child",
+        "title": "USGS_GMTED2010_FULL",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_GTOPO30.json",
         "rel": "child",
         "title": "USGS_GTOPO30",
