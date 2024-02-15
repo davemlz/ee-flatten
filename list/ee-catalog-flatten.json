@@ -552,15 +552,27 @@
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/EO1/EO1_HYPERION.json",
-        "rel": "child",
-        "title": "EO1_HYPERION",
-        "type": "application/json"
-    },
-    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/EDF/EDF_OGIM_OGIM_v2-4_RF06_RF08.json",
         "rel": "child",
         "title": "EDF_OGIM_OGIM_v2-4_RF06_RF08",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/EDF/EDF_MethaneSAT_MethaneAIR_methaneair-L4area-2021.json",
+        "rel": "child",
+        "title": "EDF_MethaneSAT_MethaneAIR_methaneair-L4area-2021",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/EDF/EDF_MethaneSAT_MethaneAIR_methaneair-L4point-2021.json",
+        "rel": "child",
+        "title": "EDF_MethaneSAT_MethaneAIR_methaneair-L4point-2021",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/EO1/EO1_HYPERION.json",
+        "rel": "child",
+        "title": "EO1_HYPERION",
         "type": "application/json"
     },
     {
@@ -4704,6 +4716,18 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_LANCE_NOAA20_VIIRS_C2.json",
+        "rel": "child",
+        "title": "NASA_LANCE_NOAA20_VIIRS_C2",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_LANCE_SNPP_VIIRS_C2.json",
+        "rel": "child",
+        "title": "NASA_LANCE_SNPP_VIIRS_C2",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_MEASURES_GFCC_TC_v3.json",
         "rel": "child",
         "title": "NASA_MEASURES_GFCC_TC_v3",
@@ -4785,6 +4809,12 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_SMAP_SPL3SMP_E_005.json",
         "rel": "child",
         "title": "NASA_SMAP_SPL3SMP_E_005",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_SMAP_SPL3SMP_E_006.json",
+        "rel": "child",
+        "title": "NASA_SMAP_SPL3SMP_E_006",
         "type": "application/json"
     },
     {
