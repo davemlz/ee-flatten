@@ -822,6 +822,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/GLIMS/GLIMS_20230607.json",
+        "rel": "child",
+        "title": "GLIMS_20230607",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/GLIMS/GLIMS_current.json",
         "rel": "child",
         "title": "GLIMS_current",
