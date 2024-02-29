@@ -840,6 +840,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/GOOGLE/GOOGLE_AirView_California_Unified_2015_2019.json",
+        "rel": "child",
+        "title": "GOOGLE_AirView_California_Unified_2015_2019",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/GOOGLE/GOOGLE_CLOUD_SCORE_PLUS_V1_S2_HARMONIZED.json",
         "rel": "child",
         "title": "GOOGLE_CLOUD_SCORE_PLUS_V1_S2_HARMONIZED",
