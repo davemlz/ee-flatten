@@ -4578,6 +4578,18 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_EMIT_L2B_CH4ENH.json",
+        "rel": "child",
+        "title": "NASA_EMIT_L2B_CH4ENH",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_EMIT_L2B_CH4PLM.json",
+        "rel": "child",
+        "title": "NASA_EMIT_L2B_CH4PLM",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_FLDAS_NOAH01_C_GL_M_V001.json",
         "rel": "child",
         "title": "NASA_FLDAS_NOAH01_C_GL_M_V001",
