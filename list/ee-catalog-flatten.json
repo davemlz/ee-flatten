@@ -6228,6 +6228,24 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WM/WM_geoLab_geoBoundaries_600_ADM0.json",
+        "rel": "child",
+        "title": "WM_geoLab_geoBoundaries_600_ADM0",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WM/WM_geoLab_geoBoundaries_600_ADM1.json",
+        "rel": "child",
+        "title": "WM_geoLab_geoBoundaries_600_ADM1",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WM/WM_geoLab_geoBoundaries_600_ADM2.json",
+        "rel": "child",
+        "title": "WM_geoLab_geoBoundaries_600_ADM2",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/WORLDCLIM/WORLDCLIM_V1_BIO.json",
         "rel": "child",
         "title": "WORLDCLIM_V1_BIO",
