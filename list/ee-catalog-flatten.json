@@ -6264,6 +6264,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WRI/WRI_Aqueduct_Flood_Hazard_Maps_V2.json",
+        "rel": "child",
+        "title": "WRI_Aqueduct_Flood_Hazard_Maps_V2",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/WRI/WRI_GFW_FORMA_alerts.json",
         "rel": "child",
         "title": "WRI_GFW_FORMA_alerts",
