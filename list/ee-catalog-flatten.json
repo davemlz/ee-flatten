@@ -5904,6 +5904,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USFS/USFS_GTAC_LCMS_v2023-9.json",
+        "rel": "child",
+        "title": "USFS_GTAC_LCMS_v2023-9",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/USFS/USFS_GTAC_MTBS_burned_area_boundaries_v1.json",
         "rel": "child",
         "title": "USFS_GTAC_MTBS_burned_area_boundaries_v1",
