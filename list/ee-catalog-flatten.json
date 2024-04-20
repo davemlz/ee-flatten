@@ -1308,6 +1308,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GHSL_P2023A_GHS_BUILT_S_10m.json",
+        "rel": "child",
+        "title": "JRC_GHSL_P2023A_GHS_BUILT_S_10m",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GHSL_P2023A_GHS_BUILT_V.json",
         "rel": "child",
         "title": "JRC_GHSL_P2023A_GHS_BUILT_V",
@@ -4689,6 +4695,12 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GRACE_MASS_GRIDS_OCEAN_EOFR.json",
         "rel": "child",
         "title": "NASA_GRACE_MASS_GRIDS_OCEAN_EOFR",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GRACE_MASS_GRIDS_V04_LAND.json",
+        "rel": "child",
+        "title": "NASA_GRACE_MASS_GRIDS_V04_LAND",
         "type": "application/json"
     },
     {
