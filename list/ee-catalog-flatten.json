@@ -4698,6 +4698,18 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GRACE_MASS_GRIDS_V03_MASCON.json",
+        "rel": "child",
+        "title": "NASA_GRACE_MASS_GRIDS_V03_MASCON",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GRACE_MASS_GRIDS_V03_MASCON_CRI.json",
+        "rel": "child",
+        "title": "NASA_GRACE_MASS_GRIDS_V03_MASCON_CRI",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GRACE_MASS_GRIDS_V04_LAND.json",
         "rel": "child",
         "title": "NASA_GRACE_MASS_GRIDS_V04_LAND",
