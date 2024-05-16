@@ -4722,6 +4722,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GRACE_MASS_GRIDS_V04_OCEAN.json",
+        "rel": "child",
+        "title": "NASA_GRACE_MASS_GRIDS_V04_OCEAN",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GSFC_MERRA_aer_2.json",
         "rel": "child",
         "title": "NASA_GSFC_MERRA_aer_2",
