@@ -4674,6 +4674,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GPM_L3_IMERG_MONTHLY_V07.json",
+        "rel": "child",
+        "title": "NASA_GPM_L3_IMERG_MONTHLY_V07",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_GPM_L3_IMERG_V06.json",
         "rel": "child",
         "title": "NASA_GPM_L3_IMERG_V06",
