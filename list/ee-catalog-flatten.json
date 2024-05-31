@@ -4146,6 +4146,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/MODIS/MODIS_061_MYD09CMG.json",
+        "rel": "child",
+        "title": "MODIS_061_MYD09CMG",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/MODIS/MODIS_061_MYD09GA.json",
         "rel": "child",
         "title": "MODIS_061_MYD09GA",
