@@ -1602,6 +1602,36 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/LANDSAT/LANDSAT_COMPOSITES_C02_T1_L2_8DAY_BAI.json",
+        "rel": "child",
+        "title": "LANDSAT_COMPOSITES_C02_T1_L2_8DAY_BAI",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/LANDSAT/LANDSAT_COMPOSITES_C02_T1_L2_8DAY_EVI.json",
+        "rel": "child",
+        "title": "LANDSAT_COMPOSITES_C02_T1_L2_8DAY_EVI",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/LANDSAT/LANDSAT_COMPOSITES_C02_T1_L2_8DAY_NBR.json",
+        "rel": "child",
+        "title": "LANDSAT_COMPOSITES_C02_T1_L2_8DAY_NBR",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/LANDSAT/LANDSAT_COMPOSITES_C02_T1_L2_8DAY_NDVI.json",
+        "rel": "child",
+        "title": "LANDSAT_COMPOSITES_C02_T1_L2_8DAY_NDVI",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/LANDSAT/LANDSAT_COMPOSITES_C02_T1_L2_8DAY_NDWI.json",
+        "rel": "child",
+        "title": "LANDSAT_COMPOSITES_C02_T1_L2_8DAY_NDWI",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/LANDSAT/LANDSAT_GLS1975.json",
         "rel": "child",
         "title": "LANDSAT_GLS1975",
