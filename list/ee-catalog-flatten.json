@@ -5196,6 +5196,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_IBTrACS_v4.json",
+        "rel": "child",
+        "title": "NOAA_IBTrACS_v4",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NOAA/NOAA_NCEP_DOE_RE2_total_cloud_coverage.json",
         "rel": "child",
         "title": "NOAA_NCEP_DOE_RE2_total_cloud_coverage",
