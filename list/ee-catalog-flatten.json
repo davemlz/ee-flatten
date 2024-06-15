@@ -888,6 +888,18 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/HU_BERLIN/HU_BERLIN_EPFD_V2_points.json",
+        "rel": "child",
+        "title": "HU_BERLIN_EPFD_V2_points",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/HU_BERLIN/HU_BERLIN_EPFD_V2_polygons.json",
+        "rel": "child",
+        "title": "HU_BERLIN_EPFD_V2_polygons",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/HYCOM/HYCOM_GLBu0_08_sea_surface_elevation.json",
         "rel": "child",
         "title": "HYCOM_GLBu0_08_sea_surface_elevation",
