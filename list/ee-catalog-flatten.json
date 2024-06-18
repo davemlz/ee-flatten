@@ -4938,6 +4938,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_VIIRS_002_VNP09GA.json",
+        "rel": "child",
+        "title": "NASA_VIIRS_002_VNP09GA",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA_USDA/NASA_USDA_HSL_SMAP10KM_soil_moisture.json",
         "rel": "child",
         "title": "NASA_USDA_HSL_SMAP10KM_soil_moisture",
