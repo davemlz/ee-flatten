@@ -5178,6 +5178,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/neon-prod-earthengine/projects_neon-prod-earthengine_assets_CHM_001.json",
+        "rel": "child",
+        "title": "projects_neon-prod-earthengine_assets_CHM_001",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/ngis-cat/projects_ngis-cat_assets_DEA_NIDEM.json",
         "rel": "child",
         "title": "projects_ngis-cat_assets_DEA_NIDEM",
