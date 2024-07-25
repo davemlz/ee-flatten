@@ -3126,6 +3126,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_EMIT_L1B_RAD.json",
+        "rel": "child",
+        "title": "NASA_EMIT_L1B_RAD",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_FLDAS_NOAH01_C_GL_M_V001.json",
         "rel": "child",
         "title": "NASA_FLDAS_NOAH01_C_GL_M_V001",
