@@ -4800,6 +4800,18 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WCMC/WCMC_WDOECM_current_points.json",
+        "rel": "child",
+        "title": "WCMC_WDOECM_current_points",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WCMC/WCMC_WDOECM_current_polygons.json",
+        "rel": "child",
+        "title": "WCMC_WDOECM_current_polygons",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/WCMC/WCMC_WDPA_current_points.json",
         "rel": "child",
         "title": "WCMC_WDPA_current_points",
