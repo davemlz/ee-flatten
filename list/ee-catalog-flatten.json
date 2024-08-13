@@ -96,6 +96,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/CAS/CAS_IGSNRR_PML_V2_v018.json",
+        "rel": "child",
+        "title": "CAS_IGSNRR_PML_V2_v018",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/CGIAR/CGIAR_SRTM90_V4.json",
         "rel": "child",
         "title": "CGIAR_SRTM90_V4",
