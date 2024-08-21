@@ -3438,9 +3438,27 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_VIIRS_002_VNP13A1.json",
+        "rel": "child",
+        "title": "NASA_VIIRS_002_VNP13A1",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_VIIRS_002_VNP15A2H.json",
         "rel": "child",
         "title": "NASA_VIIRS_002_VNP15A2H",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_VIIRS_002_VNP21A1D.json",
+        "rel": "child",
+        "title": "NASA_VIIRS_002_VNP21A1D",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_VIIRS_002_VNP21A1N.json",
+        "rel": "child",
+        "title": "NASA_VIIRS_002_VNP21A1N",
         "type": "application/json"
     },
     {
@@ -5229,6 +5247,30 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/neon-prod-earthengine/projects_neon-prod-earthengine_assets_CHM_001.json",
         "rel": "child",
         "title": "projects_neon-prod-earthengine_assets_CHM_001",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/neon-prod-earthengine/projects_neon-prod-earthengine_assets_DEM_001.json",
+        "rel": "child",
+        "title": "projects_neon-prod-earthengine_assets_DEM_001",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/neon-prod-earthengine/projects_neon-prod-earthengine_assets_HSI_REFL_001.json",
+        "rel": "child",
+        "title": "projects_neon-prod-earthengine_assets_HSI_REFL_001",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/neon-prod-earthengine/projects_neon-prod-earthengine_assets_HSI_REFL_002.json",
+        "rel": "child",
+        "title": "projects_neon-prod-earthengine_assets_HSI_REFL_002",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/neon-prod-earthengine/projects_neon-prod-earthengine_assets_RGB_001.json",
+        "rel": "child",
+        "title": "projects_neon-prod-earthengine_assets_RGB_001",
         "type": "application/json"
     },
     {
