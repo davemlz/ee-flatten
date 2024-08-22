@@ -654,6 +654,18 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/Estonia/Estonia_Maamet_orthos_rgb_low_flying.json",
+        "rel": "child",
+        "title": "Estonia_Maamet_orthos_rgb_low_flying",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/Estonia/Estonia_Maamet_orthos_mono_low_flying.json",
+        "rel": "child",
+        "title": "Estonia_Maamet_orthos_mono_low_flying",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/FAO/FAO_GAUL_2015_level0.json",
         "rel": "child",
         "title": "FAO_GAUL_2015_level0",
@@ -3441,6 +3453,12 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_VIIRS_002_VNP13A1.json",
         "rel": "child",
         "title": "NASA_VIIRS_002_VNP13A1",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_VIIRS_002_VNP14A1.json",
+        "rel": "child",
+        "title": "NASA_VIIRS_002_VNP14A1",
         "type": "application/json"
     },
     {
