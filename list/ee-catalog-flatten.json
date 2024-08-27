@@ -2088,6 +2088,24 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/LARSE/LARSE_GEDI_GRIDDEDVEG_002_V1_12KM.json",
+        "rel": "child",
+        "title": "LARSE_GEDI_GRIDDEDVEG_002_V1_12KM",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/LARSE/LARSE_GEDI_GRIDDEDVEG_002_V1_1KM.json",
+        "rel": "child",
+        "title": "LARSE_GEDI_GRIDDEDVEG_002_V1_1KM",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/LARSE/LARSE_GEDI_GRIDDEDVEG_002_V1_6KM.json",
+        "rel": "child",
+        "title": "LARSE_GEDI_GRIDDEDVEG_002_V1_6KM",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/Latvia/Latvia_Maamet_orthos_rgb.json",
         "rel": "child",
         "title": "Latvia_Maamet_orthos_rgb",
