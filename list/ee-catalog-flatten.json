@@ -582,6 +582,18 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/EDF/EDF_MethaneSAT_MethaneAIR_L4area.json",
+        "rel": "child",
+        "title": "EDF_MethaneSAT_MethaneAIR_L4area",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/EDF/EDF_MethaneSAT_MethaneAIR_L4point.json",
+        "rel": "child",
+        "title": "EDF_MethaneSAT_MethaneAIR_L4point",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/EO1/EO1_HYPERION.json",
         "rel": "child",
         "title": "EO1_HYPERION",
