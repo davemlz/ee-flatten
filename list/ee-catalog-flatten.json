@@ -582,6 +582,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/EDF/EDF_OGIM_current.json",
+        "rel": "child",
+        "title": "EDF_OGIM_current",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/EDF/EDF_MethaneSAT_MethaneAIR_L4area.json",
         "rel": "child",
         "title": "EDF_MethaneSAT_MethaneAIR_L4area",
@@ -591,6 +597,12 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/EDF/EDF_MethaneSAT_MethaneAIR_L4point.json",
         "rel": "child",
         "title": "EDF_MethaneSAT_MethaneAIR_L4point",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/EDF/EDF_MethaneSAT_MethaneAIR_L3concentration.json",
+        "rel": "child",
+        "title": "EDF_MethaneSAT_MethaneAIR_L3concentration",
         "type": "application/json"
     },
     {
@@ -3177,6 +3189,12 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_EMIT_L1B_RAD.json",
         "rel": "child",
         "title": "NASA_EMIT_L1B_RAD",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_EMIT_L2A_RFL.json",
+        "rel": "child",
+        "title": "NASA_EMIT_L2A_RFL",
         "type": "application/json"
     },
     {
