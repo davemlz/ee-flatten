@@ -5016,6 +5016,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WRI/WRI_SBTN_naturalLands_v1.json",
+        "rel": "child",
+        "title": "WRI_SBTN_naturalLands_v1",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/WWF/WWF_HydroATLAS_v1_Basins_level03.json",
         "rel": "child",
         "title": "WWF_HydroATLAS_v1_Basins_level03",
