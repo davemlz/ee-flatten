@@ -930,6 +930,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/GOOGLE/GOOGLE_Research_open-buildings-temporal_v1.json",
+        "rel": "child",
+        "title": "GOOGLE_Research_open-buildings-temporal_v1",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/GRIDMET/GRIDMET_DROUGHT.json",
         "rel": "child",
         "title": "GRIDMET_DROUGHT",
