@@ -72,6 +72,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/BNETD/BNETD_land_cover_v1.json",
+        "rel": "child",
+        "title": "BNETD_land_cover_v1",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/BNU/BNU_FGS_CCNL_v1.json",
         "rel": "child",
         "title": "BNU_FGS_CCNL_v1",
