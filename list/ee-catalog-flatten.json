@@ -1332,6 +1332,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_CEMS_GLOFAS_FloodHazard_v1.json",
+        "rel": "child",
+        "title": "JRC_CEMS_GLOFAS_FloodHazard_v1",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_D5_EUCROPMAP_V1.json",
         "rel": "child",
         "title": "JRC_D5_EUCROPMAP_V1",
