@@ -1380,6 +1380,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GHSL_P2023A_GHS_SMOD_V2-0.json",
+        "rel": "child",
+        "title": "JRC_GHSL_P2023A_GHS_SMOD_V2-0",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GHSL_P2023A_GHS_BUILT_C.json",
         "rel": "child",
         "title": "JRC_GHSL_P2023A_GHS_BUILT_C",
