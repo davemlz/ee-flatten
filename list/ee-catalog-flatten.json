@@ -4410,12 +4410,6 @@
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/UK/UK_NHM_BII_V1.json",
-        "rel": "child",
-        "title": "UK_NHM_BII_V1",
-        "type": "application/json"
-    },
-    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/UMD/UMD_GLAD_PRIMARY_HUMID_TROPICAL_FORESTS_v1.json",
         "rel": "child",
         "title": "UMD_GLAD_PRIMARY_HUMID_TROPICAL_FORESTS_v1",
