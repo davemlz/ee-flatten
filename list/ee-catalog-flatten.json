@@ -1164,6 +1164,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/IUCN/IUCN_GlobalEcosystemTypology_current.json",
+        "rel": "child",
+        "title": "IUCN_GlobalEcosystemTypology_current",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/JAXA/JAXA_ALOS_AVNIR-2_ORI.json",
         "rel": "child",
         "title": "JAXA_ALOS_AVNIR-2_ORI",
