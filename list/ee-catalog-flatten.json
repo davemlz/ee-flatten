@@ -1356,6 +1356,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GFC2020_subtypes_V0.json",
+        "rel": "child",
+        "title": "JRC_GFC2020_subtypes_V0",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GHSL_P2016_BUILT_LDSMT_GLOBE_V1.json",
         "rel": "child",
         "title": "JRC_GHSL_P2016_BUILT_LDSMT_GLOBE_V1",
@@ -4587,6 +4593,12 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/UQ/UQ_murray_Intertidal_v1_1_qa_pixel_count.json",
         "rel": "child",
         "title": "UQ_murray_Intertidal_v1_1_qa_pixel_count",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/UN/UN_Geodata_BNDA_simplified_current.json",
+        "rel": "child",
+        "title": "UN_Geodata_BNDA_simplified_current",
         "type": "application/json"
     },
     {
