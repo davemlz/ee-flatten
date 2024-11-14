@@ -4434,6 +4434,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/UCSB-CHG/UCSB-CHG_CHIRTS_DAILY.json",
+        "rel": "child",
+        "title": "UCSB-CHG_CHIRTS_DAILY",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/UK/UK_EA_ENGLAND_1M_TERRAIN_2022.json",
         "rel": "child",
         "title": "UK_EA_ENGLAND_1M_TERRAIN_2022",
