@@ -4848,33 +4848,9 @@
         "type": "application/json"
     },
     {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_NLCD_RELEASES_2019_REL_RCMAP_V4_COVER.json",
-        "rel": "child",
-        "title": "USGS_NLCD_RELEASES_2019_REL_RCMAP_V4_COVER",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_NLCD_RELEASES_2019_REL_RCMAP_V5_COVER.json",
-        "rel": "child",
-        "title": "USGS_NLCD_RELEASES_2019_REL_RCMAP_V5_COVER",
-        "type": "application/json"
-    },
-    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_NLCD_RELEASES_2023_REL_RCMAP_V6_COVER.json",
         "rel": "child",
         "title": "USGS_NLCD_RELEASES_2023_REL_RCMAP_V6_COVER",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_NLCD_RELEASES_2019_REL_RCMAP_V5_TRENDS.json",
-        "rel": "child",
-        "title": "USGS_NLCD_RELEASES_2019_REL_RCMAP_V5_TRENDS",
-        "type": "application/json"
-    },
-    {
-        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USGS/USGS_NLCD_RELEASES_2019_REL_RCMAP_V5_TRENDS_YEAR.json",
-        "rel": "child",
-        "title": "USGS_NLCD_RELEASES_2019_REL_RCMAP_V5_TRENDS_YEAR",
         "type": "application/json"
     },
     {
