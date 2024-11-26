@@ -5340,6 +5340,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/forestdatapartnership/projects_forestdatapartnership_assets_palm_model_2024a.json",
+        "rel": "child",
+        "title": "projects_forestdatapartnership_assets_palm_model_2024a",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/geoscience-aus-cat/projects_geoscience-aus-cat_assets_NIDEM.json",
         "rel": "child",
         "title": "projects_geoscience-aus-cat_assets_NIDEM",
