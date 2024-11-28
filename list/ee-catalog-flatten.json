@@ -5352,6 +5352,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/forestdatapartnership/projects_forestdatapartnership_assets_cocoa_model_2024a.json",
+        "rel": "child",
+        "title": "projects_forestdatapartnership_assets_cocoa_model_2024a",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/geoscience-aus-cat/projects_geoscience-aus-cat_assets_NIDEM.json",
         "rel": "child",
         "title": "projects_geoscience-aus-cat_assets_NIDEM",
@@ -5391,6 +5397,12 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/geoscience-aus-cat/projects_geoscience-aus-cat_assets_ga_ls8cls9c_gm_cyear_3.json",
         "rel": "child",
         "title": "projects_geoscience-aus-cat_assets_ga_ls8cls9c_gm_cyear_3",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/gcp-public-data-weathernext/projects_gcp-public-data-weathernext_assets_59572747_4_0.json",
+        "rel": "child",
+        "title": "projects_gcp-public-data-weathernext_assets_59572747_4_0",
         "type": "application/json"
     },
     {
