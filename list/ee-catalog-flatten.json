@@ -5358,6 +5358,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/forestdatapartnership/projects_forestdatapartnership_assets_community_forests_ForestPersistence_2020.json",
+        "rel": "child",
+        "title": "projects_forestdatapartnership_assets_community_forests_ForestPersistence_2020",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/geoscience-aus-cat/projects_geoscience-aus-cat_assets_NIDEM.json",
         "rel": "child",
         "title": "projects_geoscience-aus-cat_assets_NIDEM",
