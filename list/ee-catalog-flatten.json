@@ -1356,6 +1356,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GFC2020_V2.json",
+        "rel": "child",
+        "title": "JRC_GFC2020_V2",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/JRC/JRC_GFC2020_subtypes_V0.json",
         "rel": "child",
         "title": "JRC_GFC2020_subtypes_V0",
