@@ -5488,5 +5488,23 @@
         "rel": "child",
         "title": "projects_sat-io_open-datasets_us-drought-monitor",
         "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/global-pasture-watch/projects_global-pasture-watch_assets_ggc-30m_v1_grassland_c.json",
+        "rel": "child",
+        "title": "projects_global-pasture-watch_assets_ggc-30m_v1_grassland_c",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/global-pasture-watch/projects_global-pasture-watch_assets_ggc-30m_v1_cultiv-grassland_p.json",
+        "rel": "child",
+        "title": "projects_global-pasture-watch_assets_ggc-30m_v1_cultiv-grassland_p",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/global-pasture-watch/projects_global-pasture-watch_assets_ggc-30m_v1_nat-semi-grassland_p.json",
+        "rel": "child",
+        "title": "projects_global-pasture-watch_assets_ggc-30m_v1_nat-semi-grassland_p",
+        "type": "application/json"
     }
 ]
