@@ -36,6 +36,18 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/AHN/AHN_AHN3.json",
+        "rel": "child",
+        "title": "AHN_AHN3",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/AHN/AHN_AHN4.json",
+        "rel": "child",
+        "title": "AHN_AHN4",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/ASTER/ASTER_AST_L1T_003.json",
         "rel": "child",
         "title": "ASTER_AST_L1T_003",
@@ -3435,6 +3447,12 @@
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_HLS_HLSL30_v002.json",
         "rel": "child",
         "title": "NASA_HLS_HLSL30_v002",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/NASA/NASA_HLS_HLSS30_v002.json",
+        "rel": "child",
+        "title": "NASA_HLS_HLSS30_v002",
         "type": "application/json"
     },
     {
