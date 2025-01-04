@@ -5064,6 +5064,18 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WRI/WRI_Aqueduct_Water_Risk_V4_baseline_annual.json",
+        "rel": "child",
+        "title": "WRI_Aqueduct_Water_Risk_V4_baseline_annual",
+        "type": "application/json"
+    },
+    {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/WRI/WRI_Aqueduct_Water_Risk_V4_baseline_monthly.json",
+        "rel": "child",
+        "title": "WRI_Aqueduct_Water_Risk_V4_baseline_monthly",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/WRI/WRI_GFW_FORMA_alerts.json",
         "rel": "child",
         "title": "WRI_GFW_FORMA_alerts",
