@@ -5454,6 +5454,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/gcp-public-data-weathernext/projects_gcp-public-data-weathernext_assets_126478713_1_0.json",
+        "rel": "child",
+        "title": "projects_gcp-public-data-weathernext_assets_126478713_1_0",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/neon-prod-earthengine/projects_neon-prod-earthengine_assets_CHM_001.json",
         "rel": "child",
         "title": "projects_neon-prod-earthengine_assets_CHM_001",
