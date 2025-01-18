@@ -4662,6 +4662,12 @@
         "type": "application/json"
     },
     {
+        "href": "https://storage.googleapis.com/earthengine-stac/catalog/USDA/USDA_WRC_v0.json",
+        "rel": "child",
+        "title": "USDA_WRC_v0",
+        "type": "application/json"
+    },
+    {
         "href": "https://storage.googleapis.com/earthengine-stac/catalog/USDOS/USDOS_LSIB_2013.json",
         "rel": "child",
         "title": "USDOS_LSIB_2013",
